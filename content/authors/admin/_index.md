@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alex Ludwig
 
 # Username (this should match the folder name)
 authors:
-- admin
+- aludwig25
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Liberal Arts
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Berklee College of Music
+  url: "berklee.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
