@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-Alex Ludwig is an Assistant Professor of Liberal Arts at Berklee College of Music. I teach classes in Film Music, Viennese Modernism, Rock History and Western European Art Music. My research interests include Sonata Theory, Joseph Haydn's String Quartets, and the use of editing in film musicals. 
+Alex Ludwig is an Assistant Professor of Liberal Arts at Berklee College of Music. I teach classes in Film Music, Viennese Modernism, Rock History and Western European Art Music. My research interests include Sonata Theory, Joseph Haydn's String Quartets, and the use of editing in film musicals. In addition, I have been cataloguing film scores that use the chant melody "Dies Irae." Check my list and let me know if you've found a new one for me.
 
-In addition, I have been cataloguing the use of the gregorian chant melody "Dies Irae" in film scores. When I'm not teaching, I'm playing and coaching soccer, or watching hockey, or running after my son, Lucas, or our new dog, Sofi.
+When I'm not teaching, I'm playing and coaching soccer, or watching hockey, or running after my son, Lucas, or our new dog, Sofi.
