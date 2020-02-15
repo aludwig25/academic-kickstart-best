@@ -22,7 +22,7 @@ publication = "HAYDN: The Online Journal of the Haydn Society of North America"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Alexander Ludwig (Boston College) asserts that Hepokoski and Darcy's Elements of Sonata Theory: Norms, Types, and Deformations in the Late Eighteenth-Century Sonata unduly marginalizes Haydn's music by persistently labeling it as witty, humorous or deformational. Ludwig suggests two modifications to this sonata theory that would make it a more historically accurate tool for considering Haydn's music, and by extension a more faithful representation of the body of eighteenth-century instrumental music."
+abstract = "Alexander Ludwig asserts that Hepokoski and Darcy's Elements of Sonata Theory: Norms, Types, and Deformations in the Late Eighteenth-Century Sonata unduly marginalizes Haydn's music by persistently labeling it as witty, humorous or deformational. Ludwig suggests two modifications to this sonata theory that would make it a more historically accurate tool for considering Haydn's music, and by extension a more faithful representation of the body of eighteenth-century instrumental music."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
