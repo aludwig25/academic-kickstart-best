@@ -1,6 +1,6 @@
 +++
 title = "Conference Report: Woodstock50"
-date = "2019"
+date = "2019-09-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
