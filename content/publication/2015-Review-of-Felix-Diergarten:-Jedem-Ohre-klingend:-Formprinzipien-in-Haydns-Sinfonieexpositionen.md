@@ -1,6 +1,6 @@
 +++
 title = "Review of Felix Diergarten: Jedem Ohre klingend: Formprinzipien in Haydns Sinfonieexpositionen"
-date = "2015"
+date = "2015-09-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
