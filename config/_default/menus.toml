@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Dies Irae"
-  url = "#diesirae"
-  weight = 40
-
-[[main]]
   name = "Publications"
   url = "#featured"
   weight = 30
