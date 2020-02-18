@@ -11,14 +11,14 @@ I have found that the combination of multiple-choice questions on a Google Form 
 Start by building your quiz. Flubaroo works best with mutliple-choice questions, but there are options to grade questions by hand, too. Once you've collected the answers on your Google Form quiz (don't forget to take the quiz yourself -- you'll need it as the grading key), open the spreadsheet and navigate to the "Document Add-ons" tab. Select and install Flubaro.
 
 <figure>
-<img src="/png/Screen Shot 2020-02-18 at 1.24.07 PM" alt="Flubaroo" title="Flubaroo Add-on.">
+<img src="/png/Screen Shot 2020-02-18 at 1.24.07PM" alt="Flubaroo" title="Flubaroo Add-on.">
 <center><figcaption>Flubaroo</figcaption></center>
 </figure>
 
 At this point, you'll need to select "Grade Assignment" and assign different values to the questions. "Normal Grading" works best, although I occasionally need to use "Grade by Hand" for those questions that are not formatted as multiple choice. 
 
 <figure>
-<img src="/png/Screen Shot 2020-02-18 at 1.58.47 PM" alt="Grades" title="Grading choices.">
+<img src="/png/Screen Shot 2020-02-18 at 1.58.47PM" alt="Grades" title="Grading choices.">
 <center><figcaption>Options for Flubaroo: Normal Grading, Grade by Hand, Skip Grading.</figcaption></center>
 </figure>
 
