@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Dies Irae"
-subtitle = ""
+subtitle = "2"
 
 [content]
   # Page type to display. E.g. project.
