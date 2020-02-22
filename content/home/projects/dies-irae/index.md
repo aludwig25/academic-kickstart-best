@@ -57,4 +57,4 @@ These examples include what I think of as three different types, or classes, of 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music,"</a>.
 
-{{< gallery >}}
+{{<gallery >}}
