@@ -12,14 +12,6 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "project"
   
-gallery_item:
-- album: gallery
-   image: metropolisposter.jpg
-   caption: _Metropolis_ (1927)
-- album: gallery
-   image: wonderfullife.jpg
-   caption: _It's A Wonderful Life_ (1946)
-  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
