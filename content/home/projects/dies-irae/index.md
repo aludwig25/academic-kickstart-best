@@ -38,6 +38,14 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ gallery_item:
+- album: gallery
+   image: metropolisposter.jpg
+   caption: _Metropolis_ (1927)
+- album: gallery
+   image: wonderfullife.jpg
+   caption: _It's A Wonderful Life_ (1946)
 +++
 
 {{< gallery >}}
