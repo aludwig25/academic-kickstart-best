@@ -42,10 +42,6 @@ gallery_item
 - album: gallery
   image: Metropolisposter.jpg
   caption: _Metropolis_ (1927)
-gallery_item
-- album: gallery
-  image: Wonderfullife.jpeg
-  caption: _It's a Wonderful Life_ (1946)
   
   # Optional featured image (relative to `static/img/` folder).
 [header]
