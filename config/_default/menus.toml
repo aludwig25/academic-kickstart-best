@@ -17,6 +17,11 @@
   name = "Dies Irae"
   url = "#dies-irae"
   weight = 30
+  
+[[main]]
+  name = "Dies Irae 2"
+  url = "#dies-irae-2"
+  weight = 40
 
 [[main]]
   name = "Publications"
