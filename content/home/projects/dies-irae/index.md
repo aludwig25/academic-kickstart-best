@@ -46,7 +46,9 @@ subtitle = ""
  - album: gallery
    image: Wonderfullife.jpg
    caption: _It's a Wonderful Life_ (1946)
+   
 +++
+
 
 {{< gallery >}}
 
