@@ -41,7 +41,7 @@ subtitle = ""
   
 +++
 
-{{< figure library="true" src="Metropolisposter.jpg" title="_Metropolis_ (1927)" lightbox="true" >}}
+{{< gallery album="<Dies-Irae>" >}}
 
 The use of the “Dies Irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies Irae” chant remains a popular option for composers of film music; in fact, using the “Dies Irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect (the “Wilhelm Scream”).
 
