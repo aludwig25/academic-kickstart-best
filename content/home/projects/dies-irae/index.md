@@ -40,10 +40,10 @@ subtitle = ""
  css_class = ""
 
 gallery_item:
- - album: gallery
+ - album: pictures
    image: Metropolisposter.jpg
    caption: _Metropolis_ (1927)
- - album: gallery
+ - album: pictures
    image: Wonderfullife.jpeg
    caption: _It's a Wonderful Life_ (1946)
    
