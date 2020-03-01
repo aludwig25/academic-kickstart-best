@@ -1,9 +1,9 @@
----
++++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
 title = "Dies Irae"
 subtitle = ""
@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -39,7 +39,6 @@ subtitle = ""
 
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
   #   3 = Card
   #   5 = Showcase
   view = 3
@@ -61,7 +60,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "diesirae.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -73,14 +72,13 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
- 
----
++++
 
 The use of the “Dies Irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies Irae” chant remains a popular option for composers of film music; in fact, using the “Dies Irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect (the “Wilhelm Scream”).
   
 Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _10 Cloverfield Lane_ (2016). For more, see my supercut of 30+ films, <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t=28s">"_Hidden in Plain Sight: Film Music's "Dies Irae"_"</a>, and the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t=128s">"_Why This Creepy Melody Is In So Many Movies_"</a>.
 
-My list:
+##My list:
 1. _Metropolis_ (1927), score by Gottfried Huppertz {00:32:34}
 2. _It's a Wonderful Life_ (1946), score by Dmitri Tiomkin 
 3. _A Clockwork Orange_ (1971), score by Wendy Carlos {00:01:00}
