@@ -85,6 +85,32 @@ My list:
 3. _A Clockwork Orange_ (1971), score by Wendy Carlos {00:01:00}
 4. _The Omen_ (1976), score by Jerry Goldsmith
 5. _A New Hope_ (1977), score by John Williams {00:40:15}
+6. _Close Encounters of the Third Kind_ (1977), score by John Williams {00:44:12}
+7. _The Shining_ (1980), score by Wendy Carlos {00:00:00}
+8. _Big Trouble in Little China_ (1986), score by John Carpenter/Alan Howarth {00:11:11}
+9. _The Mission_ (1986), score by Ennio Morricone {00:32:56}
+10. _Home Alone_ (1990), score by John Williams {00:06:58}
+11. _Batman Returns_ (1992), score by Danny Elfman {00:12:15}
+12. _Jurassic Park_ (1993), score by John Williams {01:18:30}
+13. _The Nightmare Before Christmas_ (1993), score by Danny Elfman 
+14. _The Lion King_ (1994), score by Hans Zimmer 
+15. _Mars Attacks_ (1996), score by Danny Elfman {00:02:41}
+16. _Attack of the Clones_ (2002), score by John Williams {01:24:33}
+17. _Harry Potter and the Chamber of Secrets_ (2002), score by John Williams {01:49:15}
+18. _The Ring_ (2002), score by Hans Zimmer {00:21:45}
+19. _Indiana Jones and the Kingdom of the Crystal Skull_ (2008), score by John Williams {00:04:18}
+20. _Mission Impossible 4: Ghost Protocol_ (2011), score by Michael Giacchino {00:29:59}
+21. _Thor_ (2011), score by Patrick Doyle {00:57:31}
+22. _Wreck It Ralph_ (2012), score by Henry Jackman {00:25:57}
+23. _Iron Man 3_ (2013), score by Brian Tyler {00:24:41}
+24. _Crimson Peak_ (2015), score by Fernando Velazquez {00:00:00}
+25. _The Force Awakens_ (2015), score by John Williams {01:49:20}
+26. _10 Cloverfield Lane_ (2016), score by Bear McCreary {00:00:00}
+27. _Colossal_ (2016), score by Bear McCreary {01:38:11}
+28. _Rogue One_ (2016), score by Michael Giacchino {01:12:48}
+29. _Pirates of the Caribbean 5: Dead Men Tell No Tales_ (2017), score by Geoff Zanelli {00:10:30}
+30. _The Good Place S1E11_ (2017), score by David Schwartz {00:23:42}
+31. _Avengers: Infinity War_ (2018), score by Alan Silvestri {00:33:52}
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
