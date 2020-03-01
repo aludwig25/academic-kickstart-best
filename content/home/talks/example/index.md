@@ -11,8 +11,10 @@ address:
   postcode: '44106-7105'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: A talk focusing on the process of editing in film musicals. 
+
 abstract: "Rhythm is the single thread connecting the many facets of Bob Fosse’s career. As a dancer and choreographer, Fosse focused on shaping the rhythmic properties of his stage shows; as a director, and de facto film editor, Fosse applied this fascination with rhythm in the editing bays. Despite a wide variety of dramatic content, these films are a unique opportunity to explore the role of rhythm in the editing of film musicals.
+
 Fosse directed five films in the span of one decade: _Sweet Charity_ (1969); _Cabaret_ (1972); _Liza with a Z_ (1972); _Lenny_ (1974); and _All That Jazz_ (1979). Based on analyses of key scenes from _Sweet Charity_ and _All That Jazz_, I have found that Fosse manipulates rhythm in three ways: musically (the performed musical score), physically (the staged choreography), and visually (the edited cuts). In this talk, I will examine two sequences that illustrate Fosse’s corresponding layers of rhythm and consider how this complex nexus helps to frame our understanding of film musical’s visual rhythm."
 
 # Talk start and end times.
