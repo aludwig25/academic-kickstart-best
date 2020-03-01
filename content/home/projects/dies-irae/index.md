@@ -79,7 +79,12 @@ The use of the “Dies Irae” plainchant has a long history in film music and o
   
 Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _10 Cloverfield Lane_ (2016). For more, see my supercut of 30+ films, <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t=28s">"_Hidden in Plain Sight: Film Music's "Dies Irae"_"</a>, and the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t=128s">"_Why This Creepy Melody Is In So Many Movies_"</a>.
 
-These examples include what I think of as three different types, or classes, of the Dies Irae melody. The first type (Type 1) sees full statements of the melodic phrase: see for example Dmitri Tiomkin’s _It’s a Wonderful Life_, and Wendy Carlos’s _The Shining_. The second type (Type 2) uses a motivic “stinger” of the first four pitches, often punctuating an omninous moment in a scene: see _Iron Man 3_ or John William’s score for _Home Alone_. The third and most prolific of the types (Type 3) embeds the opening of the chant in a rumbling ostinato, as we see in the “Weathertop” sequence from the original _Lord of the Rings_ film or the “panic” theme from _Jurassic Park_.
+My list:
+1. _Metropolis_ (1927), score by Gottfried Huppertz {00:32:34}
+2. _It's a Wonderful Life_ (1946), score by Dmitri Tiomkin 
+3. _A Clockwork Orange_ (1971), score by Wendy Carlos {00:01:00}
+4. _The Omen_ (1976), score by Jerry Goldsmith
+5. _A New Hope_ (1977), score by John Williams {00:40:15}
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
