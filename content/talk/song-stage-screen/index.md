@@ -1,4 +1,4 @@
-+++
+---
 title: Example Talk
 event: Academic Theme Conference
 event_url: https://example.org
@@ -60,5 +60,4 @@ projects:
 
 # Enable math on this page?
 math: true
-
-+++
+---
