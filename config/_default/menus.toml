@@ -11,17 +11,17 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 30
+  weight = 20
   
 [[main]]
   name = "Dies Irae"
   url = "#dies-irae"
-  weight = 40
+  weight = 30
   
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Publications"
