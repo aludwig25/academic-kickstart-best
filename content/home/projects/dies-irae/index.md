@@ -78,7 +78,7 @@ The use of the “Dies Irae” plainchant has a long history in film music and o
   
 Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _10 Cloverfield Lane_ (2016). For more, see my supercut of 30+ films, <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t=28s">"_Hidden in Plain Sight: Film Music's "Dies Irae"_"</a>, and the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t=128s">"_Why This Creepy Melody Is In So Many Movies_"</a>.
 
-**My List**:
+**My List**: _Film_ (year), composer {Time Stamp}
 1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34}
 2. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin 
 3. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00}
