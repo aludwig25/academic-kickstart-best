@@ -2,6 +2,8 @@
 title: Let Flubaroo Grade It!
 date: 2020-02-18
 author: Alex Ludwig
+
+tags: [pedagogy, classroom, grading, Flubaroo]
 ---
 
 Most of my classes meet once a week, so I tend to start each class with a small, low-stakes warmup quiz. These quizzes serve a few different functions: they help us draw connections in class, from week-to-week; they help me gauge attendance; and they show me what information is landing with my students and where I can improve. 
