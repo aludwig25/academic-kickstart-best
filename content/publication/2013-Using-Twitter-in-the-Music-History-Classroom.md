@@ -68,4 +68,5 @@ highlight = true
 image = ""
 caption = ""
 
+tags: [Pedagogy, Music Theory, Music History, Twitter]
 +++
