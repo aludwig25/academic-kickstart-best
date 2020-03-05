@@ -68,4 +68,5 @@ highlight = true
 image = ""
 caption = ""
 
+tags: [Film Music, Television, Game of Thrones]
 +++
