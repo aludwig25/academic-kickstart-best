@@ -68,4 +68,5 @@ highlight = true
 image = ""
 caption = ""
 
+tags: [Sonata Theory, Haydn, Analysis]
 +++
