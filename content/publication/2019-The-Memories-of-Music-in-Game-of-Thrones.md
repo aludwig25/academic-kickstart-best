@@ -66,7 +66,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "GOT-Knight.jpg"
-caption = ""
+caption = "Knighting Brienne of Tarth"
 
 tags: [Film Music, Television, Game of Thrones]
 +++
