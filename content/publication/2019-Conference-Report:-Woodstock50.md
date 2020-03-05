@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = [Woodstock, Berklee, Conference]
 
 # Links (optional).
 url_pdf = ""
@@ -67,6 +67,4 @@ highlight = true
 [header]
 image = "woodstock.jpg"
 caption = "From left to right: Simone Pilon (chair of the liberal arts department, and co-author of the report), Chip Monck (stage and lighting designer, emcee), Gerardo Valez (drummer during Jimi Hendrix set), Rona Elliot (community relations and outreach), Michael Lang (co-founder), Henry Diltz (official photographer), Bill Hanley (sound designer), Mike Mason (assistant chair of the liberal arts department), Alex Ludwig (assistant professor of the liberal arts department)"
-
-tags: [Woodstock, Berklee, Conference]
 +++
