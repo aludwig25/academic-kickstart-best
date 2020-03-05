@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "woodstock.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -66,7 +66,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "woodstock.jpg"
-caption = ""
+caption = "From left to right: Simone Pilon (chair of the liberal arts department, and co-author of the report), Chip Monck (stage and lighting designer, emcee), Gerardo Valez (drummer during Jimi Hendrix set), Rona Elliot (community relations and outreach), Michael Lang (co-founder), Henry Diltz (official photographer), Bill Hanley (sound designer), Mike Mason (assistant chair of the liberal arts department), Alex Ludwig (assistant professor of the liberal arts department)"
 
 tags: [Woodstock, Berklee, Conference]
 +++
