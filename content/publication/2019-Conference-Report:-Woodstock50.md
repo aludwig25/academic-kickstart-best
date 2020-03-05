@@ -68,4 +68,5 @@ highlight = true
 image = ""
 caption = ""
 
+tags: [Woodstock, Berklee, Conference]
 +++
