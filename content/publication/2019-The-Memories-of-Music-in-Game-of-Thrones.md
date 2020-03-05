@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "GOT-Knight.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "GOT-Knight.jpg"
 caption = ""
 
 tags: [Film Music, Television, Game of Thrones]
