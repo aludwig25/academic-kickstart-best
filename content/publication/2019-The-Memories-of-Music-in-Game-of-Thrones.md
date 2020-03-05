@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = [Film Music, Television, Game of Thrones]
 
 # Links (optional).
 url_pdf = ""
@@ -67,6 +67,4 @@ highlight = true
 [header]
 image = "GOT-Knight.jpg"
 caption = "Knighting Brienne of Tarth"
-
-tags: [Film Music, Television, Game of Thrones]
 +++
