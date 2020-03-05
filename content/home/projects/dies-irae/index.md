@@ -23,15 +23,15 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = ""
   
   [[content.filter_button]]
     name = "Deep Learning"
-    tag = "Deep Learning"
+    tag = ""
   
   [[content.filter_button]]
     name = "Other"
-    tag = "Demo"
+    tag = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -72,6 +72,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+tags: [Dies Irae, Film Music, Academic, Theory] 
 +++
 
 The use of the “Dies Irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies Irae” chant remains a popular option for composers of film music; in fact, using the “Dies Irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect (the “Wilhelm Scream”).
