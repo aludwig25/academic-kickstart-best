@@ -1,6 +1,6 @@
 +++
-title = "Backbeat Placement Affects Tempo Judgments"
-date = "2018-05-23"  # Schedule page publish date.
+title = "The Rhythm of Life is a Powerful Beat: Following Fosse's Musical, Physical, and Visual Rhythms"
+date = "2020-6-18"  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -9,16 +9,18 @@ time_start = 2018-05-23T09:30:26-06:00
 time_end = 2018-05-23T10:00:26-06:00
 
 # Abstract and optional shortened version.
-abstract = "Tactus corresponds with listeners’ perceptions of tempo (Drake et al 2000). Nevertheless, equating tactus rate to tempo may ignore other parameters that impact our sense of “musical speed” (Epstein 1995). Rhythmic patterns with equivalent event density may differ in metrical organization, which can interfere with tactus-based judgments of speed (London 2009). Listeners are keenly aware of traits that define musical genres (Gjerdingen and Perrot 2008). If genre-specific traits impact metrical hierarchy, they may also influence tempo perception. The backbeat, an emphasis on beats two and four in a simple quadruple meter, is ubiquitous in popular music. The results of this study show that backbeat has a significant impact on listeners’ accuracy in a tempo comparison task, suggesting that backbeat influences tempo perception, and that theories of tempo and meter in rock music should it to be a stylistic trait of vital importance to rock musicians’ metrical orientation."
+abstract = "Rhythm is the single thread connecting the many facets of Bob Fosse’s career. As a dancer and choreographer, Fosse focused on shaping the rhythmic properties of his stage shows; as a director, and de facto film editor, Fosse applied this fascination with rhythm in the editing bays. Despite a wide variety of dramatic content, these films are a unique opportunity to explore the role of rhythm in the editing of film musicals.
+
+Fosse directed five films in the span of one decade: _Sweet Charity_ (1969); _Cabaret_ (1972); _Liza with a Z_ (1972); _Lenny_ (1974); and _All That Jazz_ (1979). Based on analyses of key scenes from _Sweet Charity_ and _All That Jazz_, I have found that Fosse manipulates rhythm in three ways: musically (the performed musical score), physically (the staged choreography), and visually (the edited cuts). In this talk, I will examine two sequences that illustrate Fosse’s corresponding layers of rhythm and consider how this complex nexus helps to frame our understanding of film musical’s visual rhythm."
 
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "MusCan 2018"
-event_url = "https://muscan.org/en/conference/conference-2018"
+event = "Song, Stage and Screen XV"
+event_url = "https://songstageandscreen.com/song-stage-and-screen-xv/"
 
 # Location of event.
-location = "Edmonton, AB"
+location = "Cleveland, OH"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +33,11 @@ projects = ["musiccog"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Musicals", "Film Music", "Analysis"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://drive.google.com/file/d/1weqqhkgBBoFIqDodGPDsbyJiia5Ojto7/view?usp=sharing"
+url_slides = ""
 url_video = ""
 url_code = ""
 
@@ -48,7 +50,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "charity.jpg"
+caption = "Sammy Davis Jr., and Ben Vereen, in 'The Rhythm of Life' from _Sweet Charity_"
 
 +++
