@@ -39,7 +39,7 @@ projects = ["theoryped"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Sonata Theory", "Hepokoski", "Haydn", "Analysis"]
 
 # Links (optional).
 url_pdf = ""
@@ -67,6 +67,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-
-tags: [Sonata Theory, Hepokoski, Haydn, Analysis]
 +++
