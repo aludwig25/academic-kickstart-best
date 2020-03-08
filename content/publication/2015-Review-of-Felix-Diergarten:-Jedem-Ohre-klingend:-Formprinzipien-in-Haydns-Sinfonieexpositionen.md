@@ -65,6 +65,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "diergarten.jpg"
+image = "diergarten1.jpg"
 caption = ""
 +++
