@@ -42,7 +42,7 @@ projects = []
 tags = ["Sonata Theory", "Theory", "Haydn", "Analysis"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/1fMHlEnOXVU3VOr461ifG3RwJoZ1UEUmD/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
