@@ -39,7 +39,7 @@ projects = ["theoryped"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Pedagogy", "Music Theory", "Music History", "Twitter"]
 
 # Links (optional).
 url_pdf = ""
@@ -67,6 +67,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-
-tags: [Pedagogy, Music Theory, Music History, Twitter]
 +++
