@@ -11,7 +11,7 @@ Here in New England, we get a fair amount of snow. Because of this, I usually bu
 These steps are based on Apple products (a MacBook computer, iTunes and iMovie), and designed to thwart a student’s use of Shazam to help identify listening examples. As always, your mileage may vary.
 
 <figure>
-<img src="/img/iTunes.jpg" alt="iTunes, alter timings" title="iTunes, alter timings">
+<img src="/img/iTunes2.jpg" alt="iTunes, alter timings" title="iTunes, alter timings">
 <center><figcaption>iTunes, alter timings</figcaption></center>
 </figure>
 
