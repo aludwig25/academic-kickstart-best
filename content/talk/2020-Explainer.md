@@ -3,7 +3,7 @@ title = "YouTube Explainer Videos"
 date = "2020-11-5"  # Schedule page publish date.
 draft = false
 
-Talk start and end times.
+# Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-05-23T09:30:26-06:00
 time_end = 2018-05-23T10:00:26-06:00
