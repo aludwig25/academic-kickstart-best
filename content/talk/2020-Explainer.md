@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-11-05T9:30:22-6:00
+time_start = 2020-11-05T09:30:22-06:00
 # time_end = 2020-11-05T10:00:26-06:00
 
 # Abstract and optional shortened version.
