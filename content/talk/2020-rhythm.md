@@ -31,7 +31,7 @@ projects = ["musiccog"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Dies Irae", "Film Music", "YouTube"]
+tags = ["Musicals", "Film Music", "Analysis"]
 
 # Links (optional).
 url_pdf = ""
@@ -48,7 +48,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "charity.jpg"
+caption = "Sammy Davis Jr., and Ben Vereen, in 'The Rhythm of Life' from _Sweet Charity_"
 
 +++
