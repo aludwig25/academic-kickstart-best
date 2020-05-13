@@ -14,7 +14,7 @@ abstract = "YouTube’s massive platform offers many benefits to the music schol
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""Pedagogy for the People: Using Social Media Strategies to Create Understanding and Engagement" Panel at American Musicological Society Annual Meeting"
+event = "_Pedagogy for the People: Using Social Media Strategies to Create Understanding and Engagement Panel_ at Annual Meeting of the _American Musicological Society_"
 event_url = "https://www.amsmusicology.org/page/Minneapolis"
 
 # Location of event.
