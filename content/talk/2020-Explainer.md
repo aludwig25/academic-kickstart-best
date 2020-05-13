@@ -10,9 +10,7 @@ time_end = 2018-05-23T10:00:26-06:00
 
 # Abstract and optional shortened version.
 abstract = "YouTube’s massive platform offers many benefits to the music scholar working in the public sphere. Engaging in such work is easy on YouTube, where an entire sub-genre of “Explainer” videos proliferates on virtually any topic. Music scholars, and especially film music scholars, are poised to excel on YouTube because they can easily substantiate their assertions in real time. 
- 
 In this presentation, I will discuss the background, creation and publication of two different videos. The first is a supercut that I made, detailing more than thirty instances of film scores that incorporate the chant melody, “Dies Irae”; the second video is one I pitched to the website, “Vox,” on the same topic. Whereas my initial video has earned more than thirty thousand views, the Vox video has nearly two million. 
- 
 I can draw three principles from my experience pitching and creating content for YouTube: first, so-called “content creators” drive traffic on the internet, and they are constantly looking for new material; second, a specific pitch is good, especially if it is tied to, or anticipates, a larger, cultural event; and third, don’t read the comments."
 
 abstract_short = ""
