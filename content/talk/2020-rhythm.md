@@ -18,7 +18,7 @@ event = "Song, Stage and Screen XV"
 event_url = "https://www.amsmusicology.org/page/Minneapolis"
 
 # Location of event.
-location = "Minneapolis, MN"
+location = "Cleveland, OH"
 
 # Is this a selected talk? (true/false)
 selected = false
