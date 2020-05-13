@@ -50,5 +50,4 @@ highlight = true
 [header]
 image = "charity.jpg"
 caption = "Sammy Davis Jr., and Ben Vereen, in 'The Rhythm of Life' from _Sweet Charity_"
-
 +++
