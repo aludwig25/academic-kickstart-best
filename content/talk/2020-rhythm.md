@@ -15,10 +15,10 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Song, Stage and Screen XV"
-event_url = "https://songstageandscreen.com/song-stage-and-screen-xv/"
+event_url = "https://www.amsmusicology.org/page/Minneapolis"
 
 # Location of event.
-location = "Cleveland, OH"
+location = "Minneapolis, MN"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ projects = ["musiccog"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Musicals", "Film Music", "Analysis"]
+tags = ["Dies Irae", "Film Music", "YouTube"]
 
 # Links (optional).
 url_pdf = ""
@@ -48,7 +48,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "charity.jpg"
-caption = "Sammy Davis Jr., and Ben Vereen, in 'The Rhythm of Life' from _Sweet Charity_"
+image = ""
+caption = ""
 
 +++
