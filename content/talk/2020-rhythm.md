@@ -6,16 +6,16 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2020-06-18T09:30:26-06:00
-# time_end = 2020-06-18T10:00:26-06:00
+time_end = 2018-05-23T10:00:26-06:00
 
 # Abstract and optional shortened version.
-abstract = "Rhythm is the single thread connecting the many facets of Bob Fosse’s career. As a dancer and choreographer, Fosse focused on shaping the rhythmic properties of his stage shows; as a director, and de facto film editor, Fosse applied this fascination with rhythm in the editing bays. Despite a wide variety of dramatic content, these films are a unique opportunity to explore the role of rhythm in the editing of film musicals. Fosse directed five films in the span of one decade: _Sweet Charity_ (1969); _Cabaret_ (1972); _Liza with a Z_ (1972); _Lenny_ (1974); and _All That Jazz_ (1979). Based on analyses of key scenes from _Sweet Charity_ and _All That Jazz_, I have found that Fosse manipulates rhythm in three ways: musically (the performed musical score), physically (the staged choreography), and visually (the edited cuts). In this talk, I will examine two sequences that illustrate Fosse’s corresponding layers of rhythm and consider how this complex nexus helps to frame our understanding of film musical’s visual rhythm."
+abstract = "Rhythm is the single thread connecting the many facets of Bob Fosse’s career. As a dancer and choreographer, Fosse focused on shaping the rhythmic properties of his stage shows; as a director, and de facto film editor, Fosse applied this fascination with rhythm in the editing bays. Despite a wide variety of dramatic content, these films are a unique opportunity to explore the role of rhythm in the editing of film musicals. Fosse directed five films in the span of one decade: Sweet Charity (1969); Cabaret (1972); Liza with a Z (1972); Lenny (1974); and All That Jazz (1979). Based on analyses of key scenes from Sweet Charity and All That Jazz, I have found that Fosse manipulates rhythm in three ways: musically (the performed musical score), physically (the staged choreography), and visually (the edited cuts). In this talk, I will examine two sequences that illustrate Fosse’s corresponding layers of rhythm and consider how this complex nexus helps to frame our understanding of film musical’s visual rhythm."
 
 abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Song, Stage and Screen XV"
-event_url = "https://www.amsmusicology.org/page/Minneapolis"
+event_url = "https://songstageandscreen.com/song-stage-and-screen-xv/"
 
 # Location of event.
 location = "Cleveland, OH"
@@ -31,7 +31,7 @@ projects = ["musiccog"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Musicals", "Film Music", "Analysis"]
+tags = ["Film Music", "Bob Fosse", "Analysis"]
 
 # Links (optional).
 url_pdf = ""
@@ -50,4 +50,5 @@ highlight = true
 [header]
 image = "charity.jpg"
 caption = "Sammy Davis Jr., and Ben Vereen, in 'The Rhythm of Life' from _Sweet Charity_"
+
 +++
