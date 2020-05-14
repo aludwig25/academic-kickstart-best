@@ -1,6 +1,6 @@
 +++
 title = "Youtube Explainer Videos"
-# date = "2020-11-05"  # Schedule page publish date.
+# date = "2020-05-14"  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
