@@ -9,16 +9,16 @@ time_start = 2020-05-14T09:30:26-06:00
 time_end = 2020-05-14T10:00:26-06:00
 
 # Abstract and optional shortened version.
-abstract = "Tactus corresponds with listeners’ perceptions of tempo (Drake et al 2000). Nevertheless, equating tactus rate to tempo may ignore other parameters that impact our sense of “musical speed” (Epstein 1995). Rhythmic patterns with equivalent event density may differ in metrical organization, which can interfere with tactus-based judgments of speed (London 2009). Listeners are keenly aware of traits that define musical genres (Gjerdingen and Perrot 2008). If genre-specific traits impact metrical hierarchy, they may also influence tempo perception. The backbeat, an emphasis on beats two and four in a simple quadruple meter, is ubiquitous in popular music. The results of this study show that backbeat has a significant impact on listeners’ accuracy in a tempo comparison task, suggesting that backbeat influences tempo perception, and that theories of tempo and meter in rock music should it to be a stylistic trait of vital importance to rock musicians’ metrical orientation."
+abstract = "YouTube’s massive platform offers many benefits to the music scholar working in the public sphere. Engaging in such work is easy on YouTube, where an entire sub-genre of “Explainer” videos proliferates on virtually any topic. Music scholars, and especially film music scholars, are poised to excel on YouTube because they can easily substantiate their assertions in real time. In this presentation, I will discuss the background, creation and publication of two different videos."
 
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "MusCan 2018"
-event_url = "https://muscan.org/en/conference/conference-2018"
+event = "_Pedagogy for the People: Using Social Media Strategies to Create Understanding and Engagment_ Panel at AMS"
+event_url = "https://amsminneapolis2020.dryfta.com"
 
 # Location of event.
-location = "Edmonton, AB"
+location = "Minneapolis, MN"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +31,11 @@ projects = ["musiccog"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Film Music", "Pedagogy", "Dies Irae", "Analysis"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://drive.google.com/file/d/1weqqhkgBBoFIqDodGPDsbyJiia5Ojto7/view?usp=sharing"
+url_slides = ""
 url_video = ""
 url_code = ""
 
