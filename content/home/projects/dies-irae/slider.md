@@ -14,8 +14,8 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned 😄"
+  title = "Metropolis"
+  content = "(1927), score by Gottfried Huppertz {00:32:34}"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
