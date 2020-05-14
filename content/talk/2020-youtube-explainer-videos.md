@@ -1,12 +1,12 @@
 +++
 title = "Youtube Explainer Videos"
-date = "2020-11-05"  # Schedule page publish date.
+date = "2020-05-14"  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-11-05T09:30:26-06:00
-time_end = 2020-11-05T10:00:26-06:00
+time_start = 2020-05-14T09:30:26-06:00
+time_end = 2020-05-14T10:00:26-06:00
 
 # Abstract and optional shortened version.
 abstract = "Tactus corresponds with listeners’ perceptions of tempo (Drake et al 2000). Nevertheless, equating tactus rate to tempo may ignore other parameters that impact our sense of “musical speed” (Epstein 1995). Rhythmic patterns with equivalent event density may differ in metrical organization, which can interfere with tactus-based judgments of speed (London 2009). Listeners are keenly aware of traits that define musical genres (Gjerdingen and Perrot 2008). If genre-specific traits impact metrical hierarchy, they may also influence tempo perception. The backbeat, an emphasis on beats two and four in a simple quadruple meter, is ubiquitous in popular music. The results of this study show that backbeat has a significant impact on listeners’ accuracy in a tempo comparison task, suggesting that backbeat influences tempo perception, and that theories of tempo and meter in rock music should it to be a stylistic trait of vital importance to rock musicians’ metrical orientation."
