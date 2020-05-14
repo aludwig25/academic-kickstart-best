@@ -1,12 +1,12 @@
 +++
 title = "Youtube Explainer Videos"
-date = "2020-11-05"  # Schedule page publish date.
+# date = "2020-11-05"  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-11-05T09:30:26-06:00
-# time_end = 2020-11-05T10:00:26-06:00
+time_start = 
+# time_end = 
 
 # Abstract and optional shortened version.
 abstract = "YouTube’s massive platform offers many benefits to the music scholar working in the public sphere. Engaging in such work is easy on YouTube, where an entire sub-genre of “Explainer” videos proliferates on virtually any topic. Music scholars, and especially film music scholars, are poised to excel on YouTube because they can easily substantiate their assertions in real time. In this presentation, I will discuss the background, creation and publication of two different videos."
