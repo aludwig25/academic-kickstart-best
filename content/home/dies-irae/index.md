@@ -1,5 +1,5 @@
 ---
-title: Dies Irae
+title: Dies Irae 2
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
