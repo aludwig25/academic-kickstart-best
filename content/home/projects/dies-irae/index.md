@@ -77,7 +77,7 @@ subtitle = ""
 
 The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019). 
 
-For more, see my three supercuts: 1. <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t">"_Hidden in Plain Sight: Film Music's 'Dies Irae'_"</a>, 2. <a href="https://www.youtube.com/watch?v=EJFbUyxU2b8">"_Hidden in Plain Sight: Volume 2_"</a>, 3. <a href="https://www.youtube.com/watch?v=hZt722GVaXI">"_Film Music's "Dies irae" in Friday the 13th Films!_"</a>. 
+For more, see my three supercuts: 1. <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t">"_Hidden in Plain Sight: Film Music's 'Dies irae'_"</a>; 2. <a href="https://www.youtube.com/watch?v=EJFbUyxU2b8">"_Hidden in Plain Sight: Volume 2_"</a>; 3. <a href="https://www.youtube.com/watch?v=hZt722GVaXI">"_Film Music's "Dies irae" in Friday the 13th Films!_"</a>. 
 
 See also the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t">"_Why This Creepy Melody Is In So Many Movies_"</a>.
 
