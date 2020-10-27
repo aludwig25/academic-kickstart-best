@@ -42,7 +42,7 @@ projects = ["theoryped"]
 tags = ["Sonata Theory", "Hepokoski", "Haydn", "Analysis"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/1Atqv9VYYQssyVfvTDmkLPPkJr1gNgnDz/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://drive.google.com/drive/u/0/recent"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
