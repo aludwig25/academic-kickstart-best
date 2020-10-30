@@ -13,7 +13,7 @@ The first was an interview with the podcaster Dallas Taylor for the Twenty Thous
 <figure>
 <img src="/img/20K_DiesIrae_Artwork_Website.jpg" alt="Dies irae" title="Dies irae">
 <center><figcaption>Dies irae artwork by <a href="https://www.instagram.com/georgeyb_design/">_George Butler_</figcaption></center>
-</figure>
+</figure></a>
 
 This was <a href="https://www.20k.org/episodes/diesirae">_a fun talk_</a>, and I got to really unpack the Dies irae within the broader context of the history of film music. 
 
