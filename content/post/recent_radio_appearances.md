@@ -17,7 +17,8 @@ The first was an interview with the podcaster Dallas Taylor for the Twenty Thous
 
 This was <a href="https://www.20k.org/episodes/diesirae">a fun talk</a>, and I got to really unpack the Dies irae within the broader context of the history of film music. 
 
-After the 20k Hertz podcast dropped, I was interviewed by the _National Public Radio_ program <a href=https://www.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music">Here and Now</a>. 
+After the 20k Hertz podcast dropped, I was interviewed by the _National Public Radio_ program 
+<a href="https://www.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music">Here and Now</a>. 
 
 This was a good distillation of what I've been working on, and I even got to finish by recommending my favorite "scariest" version of the Dies irae in film music...Jerry Goldsmith's opening titles to "The Omen."
 
