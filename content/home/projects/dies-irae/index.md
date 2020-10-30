@@ -79,7 +79,7 @@ The use of the “Dies irae” plainchant has a long history in film music and o
 
 For more, see my three supercuts: 1. <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t">"_Hidden in Plain Sight: Film Music's 'Dies irae'_"</a>; 2. <a href="https://www.youtube.com/watch?v=EJFbUyxU2b8">"_Hidden in Plain Sight: Volume 2_"</a>; 3. <a href="https://www.youtube.com/watch?v=hZt722GVaXI">"_Film Music's "Dies irae" in Friday the 13th Films_"</a>. 
 
-See also a few other media appearances: 1. the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t">"_Why This Creepy Melody Is In So Many Movies_;"</a> 2. the podcast, <a href="https://www.20k.org/episodes/diesirae">_Twenty Thousand Hertz_</a> interviewed me last July; and I was also recently interviewed by the _National Public Radio_ program 
+See also a few other media appearances: 1. the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t">"_Why This Creepy Melody Is In So Many Movies_;"</a> 2. the podcast, <a href="https://www.20k.org/episodes/diesirae">Twenty Thousand Hertz</a> interviewed me last July; and I was also recently interviewed by the _National Public Radio_ program 
 <a href="https://www.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music">Here and Now</a>.
 
 **My List**: _Film_ (year), composer {Time Stamp}
