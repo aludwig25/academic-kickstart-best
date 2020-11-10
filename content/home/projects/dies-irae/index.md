@@ -97,7 +97,7 @@ _Twenty Thousand Hertz_</a> that interviewed me last July;
 
 and the _National Public Radio_ program
 
-<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>"_Here and Now_"</a>.
+<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>_Here and Now_</a>.
 
 **My List**: _Film_ (year), composer {Time Stamp}
 1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} V1
