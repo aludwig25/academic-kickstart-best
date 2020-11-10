@@ -86,14 +86,18 @@ For more, see my three supercuts: <iframe width="560" height="315" src="https://
 See also a few other media appearances: 
 
 the film on which I consulted and appeared as a talking head:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"_Why This Creepy Melody Is In So Many Movies_;"</a> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_Why This Creepy Melody Is In So Many Movies_</a> 
 
 the podcast, <iframe frameBorder="0" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
-width="100%"></iframe>"_Twenty Thousand Hertz_"</a> that interviewed me last July; 
+width="100%"></iframe>
+
+_Twenty Thousand Hertz_</a> that interviewed me last July; 
 
 and the _National Public Radio_ program
-<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>"_Here and Now_"</a>.
 
+<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>"_Here and Now_"</a>.
 
 **My List**: _Film_ (year), composer {Time Stamp}
 1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} V1
