@@ -88,8 +88,7 @@ See also a few other media appearances:
 1. the film on which I consulted and appeared as a talking head, _Why This Creepy Melody Is In So Many Movies_.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-2. the podcast _Twenty Thousand Hertz_ <iframe frameBorder="0" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
-width="100%"></iframe> 
+2. the podcast _Twenty Thousand Hertz_
 
 3. and the "National Public Radio" program _Here and Now_. 
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>
