@@ -77,9 +77,13 @@ subtitle = ""
 
 The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019). 
 
-For more, see my three supercuts: 1. <a href="https://www.youtube.com/watch?v=GLGa6vfDTIM&t">"_Hidden in Plain Sight: Film Music's 'Dies irae'_"</a>; 2. <a href="https://www.youtube.com/watch?v=EJFbUyxU2b8">"_Hidden in Plain Sight: Volume 2_"</a>; 3. <a href="https://www.youtube.com/watch?v=hZt722GVaXI">"_Film Music's "Dies irae" in Friday the 13th Films_"</a>. 
+For more, see my three supercuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/GLGa6vfDTIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-See also a few other media appearances: 1. the film on which I consulted and appeared as a talking head, <a href="https://www.youtube.com/watch?v=-3-bVRYRnSM&t">"_Why This Creepy Melody Is In So Many Movies_;"</a> 2. the podcast, <a href="https://www.20k.org/episodes/diesirae">"_Twenty Thousand Hertz_"</a> that interviewed me last July; and the _National Public Radio_ program 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJFbUyxU2b8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZt722GVaXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>. 
+
+See also a few other media appearances: 1. the film on which I consulted and appeared as a talking head, <iframe width="560" height="315" src="https://www.youtube.com/embed/-3-bVRYRnSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"_Why This Creepy Melody Is In So Many Movies_;"</a> 2. the podcast, <a href="https://www.20k.org/episodes/diesirae">"_Twenty Thousand Hertz_"</a> that interviewed me last July; and the _National Public Radio_ program 
 <a href="https://www.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music">"_Here and Now_"</a>.
 
 **My List**: _Film_ (year), composer {Time Stamp}
