@@ -160,4 +160,4 @@ width="100%"></iframe>
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
 
-{{ gdocs src"https://docs.google.com/spreadsheets/d/e/2PACX-1vThn3MHqSWgBhjVXe-5pmPLFV01oaToXKJzABt5l4fnuH-A1RWQk_VVNoXS1p1VGxSKUF81Xu3EKo9f/pubhtml?gid=1880458227&amp;single=true&amp;widget=true&amp;headers=false" >}}
+{{ gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThn3MHqSWgBhjVXe-5pmPLFV01oaToXKJzABt5l4fnuH-A1RWQk_VVNoXS1p1VGxSKUF81Xu3EKo9f/pubhtml?gid=1880458227&amp;single=true&amp;widget=true&amp;headers=false" >}}
