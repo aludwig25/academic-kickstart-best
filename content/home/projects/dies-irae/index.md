@@ -138,53 +138,54 @@ width="100%"></iframe>
 33. **_The Lion King_** (1994), score by Hans Zimmer V1
 34. **_Crimson Tide_** (1995), score by Hans Zimmer {01:30:00}, V1
 35. **_The Rock_** (1996), score by Smith/Zimmer {0:20:26}, V1
-36. **_Mars Attacks_** (1996), score by Danny Elfman {00:02:41} V2
-37. **_Faceoff_** (1997), score by John Powell {0:07:00}, V2b
-38. **_Urban Legend_** (1998), score by Christopher Young {01:18:37} V3
-39. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} V2
-40. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} V2
-41. **_End of Days_** (1999), score by John Debney {00:00:01} V1
-42. **_Shrek_** (2001), score by Harry Gregson-Williams/John Powell {00:41:30} V2
-43. **_Attack of the Clones_** (2002), score by John Williams {01:24:33} V1
-44. **_Harry Potter and the Chamber of Secrets_** (2002), score by John Williams {01:49:15} V1
-45. **_The Ring_** (2002), score by Hans Zimmer {00:21:45} V1
-46. **_The Matrix Reloaded_** (2003), score by Don Davis {01:12:12} V2
-47. **_Lost S1E22_** (2004), score by Michael Giacchino {00:30:06} V2
-48. **_War of the Worlds_** (2005), score by John Williams {00:49:49} V2
-49. **_Death Note S1E19_** (2006), score by Yoshihisa Hirano {00:18:00} V2
-50. **_Pirates of the Caribbean 3: At World's End_** (2007), score by Hans Zimmer {02:34:00} V3
-51. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} V1
-52. **_Angels and Demons_** (2009), score by Hans Zimmer {01:57:31} V2
-53. **_LOST S6E1_** (2010), score by Michael Giacchino {0:22:50} V2
-54. **_Mission Impossible 4: Ghost Protocol_** (2011), score by Michael Giacchino {00:29:59} V1
-55. **_Pirates of the Caribbean 4: On Stranger Tides_** (2011), score by Hans Zimmer {01:55:00} V1
-56. **_Thor_** (2011), score by Patrick Doyle {00:57:31} V1
-57. **_Wreck It Ralph_** (2012), score by Henry Jackman {00:25:57} V1
-58. **_Iron Man 3_** (2013), score by Brian Tyler {00:24:41} V1
-59. **_Game of Thrones S5E1_** (2014), score by Ramin Djiwadin {00:22:15} V1
-60. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00}
-61. **_The Force Awakens_** (2015), score by John Williams {01:49:20}
-62. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} V2
-63. **_10 Cloverfield Lane_** (2016), score by Bear McCreary {00:00:00} V1
-64. **_Colossal_** (2016), score by Bear McCreary {01:38:11} V1
-65. **_Rogue One_** (2016), score by Michael Giacchino {01:12:48} V1
-66. **_Pirates of the Caribbean 5: Dead Men Tell No Tales_** (2017), score by Geoff Zanelli {00:10:30} V1
-67. **_The Good Place S1E11_** (2017), score by David Schwartz {00:23:42} V1
-68. **_The Spy Gone North_** (2018), score by Yeong-wook Jo {01:04:40} V1
-69. **_Avengers: Infinity War_** (2018), score by Alan Silvestri {00:33:52} V1
-70. **_Ready Player One_** (2018), score by Alan Silvestri {00:57:51} V2
-71. **_Star Wars Rebels S4E11_** (2018), score by Kevin Kiner {00:02:26} V2
-72. **_Star Wars Rebels S4E13_** (2018), score by Kevin Kiner {00:14:28} V2
-73. **_Eli_** (2019), score by Bear McCreary {001:19:52} V1
-74. **_1BR_** (2019), score by Ronen Landa {00:27:00} V3
-75. **_Doctor Sleep_** (2019), score by The Newton Brothers {02:18:33} V2
-76. **_Frozen 2_** (2019), score by Christophe Beck {00:16:40} V2
-77. **_Succession S2E10_** (2019), score by Nicholas Britell {01:09:00} V2
-78. **_Toy Story_** (2019), score by Randy Newman {01:15:20} V2
-79. **_Onward_** (2020), score by Jeff & Mychael Danna {01:06:00} V2
-80. **_Westworld S3E5_** (2020), score by Ramin Djawadi {00:47:14} V2
-81. **_Cursed S1E4_** (2020), score by Jeff Russo {00:06:47} V2
-82. **_Fantasy Island_** (2020), score by Bear McCreary {01:18:13} V3
+36. **_The Hunchback of Notre Dame_** (1996), score by Alan Mencken {0:03:38} V1
+37. **_Mars Attacks_** (1996), score by Danny Elfman {00:02:41} V2
+38. **_Faceoff_** (1997), score by John Powell {0:07:00}, V2b
+39. **_Urban Legend_** (1998), score by Christopher Young {01:18:37} V3
+40. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} V2
+41. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} V2
+42. **_End of Days_** (1999), score by John Debney {00:00:01} V1
+43. **_Shrek_** (2001), score by Harry Gregson-Williams/John Powell {00:41:30} V2
+44. **_Attack of the Clones_** (2002), score by John Williams {01:24:33} V1
+45. **_Harry Potter and the Chamber of Secrets_** (2002), score by John Williams {01:49:15} V1
+46. **_The Ring_** (2002), score by Hans Zimmer {00:21:45} V1
+47. **_The Matrix Reloaded_** (2003), score by Don Davis {01:12:12} V2
+48. **_Lost S1E22_** (2004), score by Michael Giacchino {00:30:06} V2
+49. **_War of the Worlds_** (2005), score by John Williams {00:49:49} V2
+50. **_Death Note S1E19_** (2006), score by Yoshihisa Hirano {00:18:00} V2
+51. **_Pirates of the Caribbean 3: At World's End_** (2007), score by Hans Zimmer {02:34:00} V3
+52. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} V1
+53. **_Angels and Demons_** (2009), score by Hans Zimmer {01:57:31} V2
+54. **_LOST S6E1_** (2010), score by Michael Giacchino {0:22:50} V2
+55. **_Mission Impossible 4: Ghost Protocol_** (2011), score by Michael Giacchino {00:29:59} V1
+56. **_Pirates of the Caribbean 4: On Stranger Tides_** (2011), score by Hans Zimmer {01:55:00} V1
+57. **_Thor_** (2011), score by Patrick Doyle {00:57:31} V1
+58. **_Wreck It Ralph_** (2012), score by Henry Jackman {00:25:57} V1
+59. **_Iron Man 3_** (2013), score by Brian Tyler {00:24:41} V1
+60. **_Game of Thrones S5E1_** (2014), score by Ramin Djiwadin {00:22:15} V1
+61. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00}
+62. **_The Force Awakens_** (2015), score by John Williams {01:49:20}
+63. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} V2
+64. **_10 Cloverfield Lane_** (2016), score by Bear McCreary {00:00:00} V1
+65. **_Colossal_** (2016), score by Bear McCreary {01:38:11} V1
+66. **_Rogue One_** (2016), score by Michael Giacchino {01:12:48} V1
+67. **_Pirates of the Caribbean 5: Dead Men Tell No Tales_** (2017), score by Geoff Zanelli {00:10:30} V1
+68. **_The Good Place S1E11_** (2017), score by David Schwartz {00:23:42} V1
+69. **_The Spy Gone North_** (2018), score by Yeong-wook Jo {01:04:40} V1
+70. **_Avengers: Infinity War_** (2018), score by Alan Silvestri {00:33:52} V1
+71. **_Ready Player One_** (2018), score by Alan Silvestri {00:57:51} V2
+72. **_Star Wars Rebels S4E11_** (2018), score by Kevin Kiner {00:02:26} V2
+73. **_Star Wars Rebels S4E13_** (2018), score by Kevin Kiner {00:14:28} V2
+74. **_Eli_** (2019), score by Bear McCreary {001:19:52} V1
+75. **_1BR_** (2019), score by Ronen Landa {00:27:00} V3
+76. **_Doctor Sleep_** (2019), score by The Newton Brothers {02:18:33} V2
+77. **_Frozen 2_** (2019), score by Christophe Beck {00:16:40} V2
+78. **_Succession S2E10_** (2019), score by Nicholas Britell {01:09:00} V2
+79. **_Toy Story_** (2019), score by Randy Newman {01:15:20} V2
+80. **_Onward_** (2020), score by Jeff & Mychael Danna {01:06:00} V2
+81. **_Westworld S3E5_** (2020), score by Ramin Djawadi {00:47:14} V2
+82. **_Cursed S1E4_** (2020), score by Jeff Russo {00:06:47} V2
+83. **_Fantasy Island_** (2020), score by Bear McCreary {01:18:13} V3
 
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
