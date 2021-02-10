@@ -75,7 +75,7 @@ subtitle = ""
  
 +++
 
-The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019). 
+The use of the “Dies irae” plainchant has a long history in film music and other assorted media.[^1] Its liturgical text comprises vivid imagery of burning ash, illustrating the final day of judgement, and its modal music fits comfortably within a tonal context, highlighting the lowered third and seventh scale degrees. It is no surprise then that quoting the “Dies irae” chant remains a popular option for composers of film music; in fact, using the “Dies irae” in your film score today usually ellicits the same response of recognition in listeners as does the stock sound effect known as the “Wilhelm Scream." Prominent examples of this chant appear in nearly every decade of the history of film music, ranging from _It’s a Wonderful Life_ (1946) to _Frozen 2_ (2019) and _The Mandalorian_ (2020). 
 
 For more, see all of my supercuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/WZEMzMwDIEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,6 +88,8 @@ For more, see all of my supercuts: <iframe width="560" height="315" src="https:/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CB6xhqeE244" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUAzu31fEbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbgGT7J7z6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See also a few other media appearances: 
 
@@ -102,91 +104,112 @@ width="100%"></iframe>
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>
 
 
-**My List**: _Film_ (year), composer {Time Stamp}
-1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} V1
-2. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin V1
-3. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} V2
-4. **_The Great Escape_** (1963), score by Elmer Bernstein {02:11:15} V2
-5. **_The Jar_** (1964), score by Bernard Herrmann {0:09:59} V1
-6. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00} V1
-7. **_Mephisto Waltz_** (1971), score by Jerry Goldsmith {00:00:31} V1
-8. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} V1
-9. **_The Omen_** (1976), score by Jerry Goldsmith V1
-10. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} V1
-11. **_A New Hope_** (1977), score by John Williams {00:40:15} V1
-12. **_Close Encounters of the Third Kind_** (1977), score by John Williams {00:44:12} V1
-13. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} V2
-14. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} V1
-15. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} V1
-16. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} V2
-17. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass V3
-18. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} V2
-19. **_Friday the 13th: Part VI, Jason Lives_** (1986), score by Henry Manfredini {00:04:15) V2
-20. **_Big Trouble in Little China_** (1986), score by John Carpenter/Alan Howarth {00:11:11} V1
-21. **_The Mission_** (1986), score by Ennio Morricone {00:32:56} V1
-22. **_Ferris Bueller's Day Off_** (1986), score by Ira Newborn {00:00:08} V2
-23. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} V1-2
-24. **_Murder She Wrote S5E13_** (1989), score by David Bell {0:13:00}, V1
-25. **_Quantam Leap S2E11_** (1989), score by Mike Post {0:42:01], V2
-26. **_Home Alone_** (1990), score by John Williams {00:06:58} V1
-27. **_Gremlins 2_** (1990), score by Jerry Goldsmith {01:34:48} V2
-28. **_Batman Returns_** (1992), score by Danny Elfman {00:12:15} V1
-29. **_Jurassic Park_** (1993), score by John Williams {01:18:30} V1
-30. **_The Nightmare Before Christmas_** (1993), score by Danny Elfman V1
-31. **_Groundhog Day_** (1993), score by George Fenton V2
-32. **_Demolition Man_** (1993), score by Eliot Goldenthal {00:00:27} V2
-33. **_The Lion King_** (1994), score by Hans Zimmer V1
-34. **_Crimson Tide_** (1995), score by Hans Zimmer {01:30:00}, V1
-35. **_The Rock_** (1996), score by Smith/Zimmer {0:20:26}, V1
-36. **_The Hunchback of Notre Dame_** (1996), score by Alan Mencken {0:03:38} V1
-37. **_Mars Attacks_** (1996), score by Danny Elfman {00:02:41} V2
-38. **_Faceoff_** (1997), score by John Powell {0:07:00}, V2b
-39. **_Urban Legend_** (1998), score by Christopher Young {01:18:37} V3
-40. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} V2
-41. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} V2
-42. **_End of Days_** (1999), score by John Debney {00:00:01} V1
-43. **_Shrek_** (2001), score by Harry Gregson-Williams/John Powell {00:41:30} V2
-44. **_Attack of the Clones_** (2002), score by John Williams {01:24:33} V1
-45. **_Harry Potter and the Chamber of Secrets_** (2002), score by John Williams {01:49:15} V1
-46. **_The Ring_** (2002), score by Hans Zimmer {00:21:45} V1
-47. **_The Matrix Reloaded_** (2003), score by Don Davis {01:12:12} V2
-48. **_Lost S1E22_** (2004), score by Michael Giacchino {00:30:06} V2
-49. **_War of the Worlds_** (2005), score by John Williams {00:49:49} V2
-50. **_Death Note S1E19_** (2006), score by Yoshihisa Hirano {00:18:00} V2
-51. **_Pirates of the Caribbean 3: At World's End_** (2007), score by Hans Zimmer {02:34:00} V3
-52. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} V1
-53. **_Angels and Demons_** (2009), score by Hans Zimmer {01:57:31} V2
-54. **_LOST S6E1_** (2010), score by Michael Giacchino {0:22:50} V2
-55. **_Mission Impossible 4: Ghost Protocol_** (2011), score by Michael Giacchino {00:29:59} V1
-56. **_Pirates of the Caribbean 4: On Stranger Tides_** (2011), score by Hans Zimmer {01:55:00} V1
-57. **_Thor_** (2011), score by Patrick Doyle {00:57:31} V1
-58. **_Wreck It Ralph_** (2012), score by Henry Jackman {00:25:57} V1
-59. **_Iron Man 3_** (2013), score by Brian Tyler {00:24:41} V1
-60. **_Game of Thrones S5E1_** (2014), score by Ramin Djiwadin {00:22:15} V1
-61. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00}
-62. **_The Force Awakens_** (2015), score by John Williams {01:49:20}
-63. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} V2
-64. **_10 Cloverfield Lane_** (2016), score by Bear McCreary {00:00:00} V1
-65. **_Colossal_** (2016), score by Bear McCreary {01:38:11} V1
-66. **_Rogue One_** (2016), score by Michael Giacchino {01:12:48} V1
-67. **_Pirates of the Caribbean 5: Dead Men Tell No Tales_** (2017), score by Geoff Zanelli {00:10:30} V1
-68. **_The Good Place S1E11_** (2017), score by David Schwartz {00:23:42} V1
-69. **_The Spy Gone North_** (2018), score by Yeong-wook Jo {01:04:40} V1
-70. **_Avengers: Infinity War_** (2018), score by Alan Silvestri {00:33:52} V1
-71. **_Ready Player One_** (2018), score by Alan Silvestri {00:57:51} V2
-72. **_Star Wars Rebels S4E11_** (2018), score by Kevin Kiner {00:02:26} V2
-73. **_Star Wars Rebels S4E13_** (2018), score by Kevin Kiner {00:14:28} V2
-74. **_Eli_** (2019), score by Bear McCreary {001:19:52} V1
-75. **_1BR_** (2019), score by Ronen Landa {00:27:00} V3
-76. **_Doctor Sleep_** (2019), score by The Newton Brothers {02:18:33} V2
-77. **_Frozen 2_** (2019), score by Christophe Beck {00:16:40} V2
-78. **_Succession S2E10_** (2019), score by Nicholas Britell {01:09:00} V2
-79. **_Toy Story_** (2019), score by Randy Newman {01:15:20} V2
-80. **_Onward_** (2020), score by Jeff & Mychael Danna {01:06:00} V2
-81. **_Westworld S3E5_** (2020), score by Ramin Djawadi {00:47:14} V2
-82. **_Cursed S1E4_** (2020), score by Jeff Russo {00:06:47} V2
-83. **_Fantasy Island_** (2020), score by Bear McCreary {01:18:13} V3
-
+**My List**: _Film_ (year), composer {Time Stamp} Type
+1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} T1
+2. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin T1
+3. **_Sleeping Beauty_** (1957), score by Jack Lawrence & Sammy Fain {0:30:00}
+4. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} T2
+5. **_Psycho_** (1960), score by Bernard Herrmann {0:11:50} T3
+6. **_The Great Escape_** (1963), score by Elmer Bernstein {02:11:15} T2
+7. **_The Jar_** (1964), score by Bernard Herrmann {0:09:59} T1
+8. **_War and Peace_** (1966), score by Vyacheslav Ovchinnikov {1:44:39} T1
+9. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00} T1
+10. **_Mephisto Waltz_** (1971), score by Jerry Goldsmith {00:00:31} T1
+11. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} T1
+12. **_The Omen_** (1976), score by Jerry Goldsmith T1
+13. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} T1
+14. **_A New Hope_** (1977), score by John Williams {00:40:15} T1
+15. **_Close Encounters of the Third Kind_** (1977), score by John Williams {00:44:12} T1
+16. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} T2
+17. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} T1
+18. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} T1
+19. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} T2
+20. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass T3
+21. **_Legend_** (1985), score by Tangerine Dream {0:21:14} T2
+22. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} T2
+23. **_Friday the 13th: Part VI, Jason Lives_** (1986), score by Henry Manfredini {00:04:15) T2
+24. **_Big Trouble in Little China_** (1986), score by John Carpenter/Alan Howarth {00:11:11} T1
+25. **_The Mission_** (1986), score by Ennio Morricone {00:32:56} T1
+26. **_Ferris Bueller's Day Off_** (1986), score by Ira Newborn {00:00:08} T2
+27. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} T1-2
+28. **_Predator_** (1987), score by Alan Silvestri {1:15:00} T2b
+29. **_Murder She Wrote S5E13_** (1989), score by David Bell {0:13:00}, T1
+30. **_Quantam Leap S2E11_** (1989), score by Mike Post {0:42:01], T2
+31. **_Home Alone_** (1990), score by John Williams {00:06:58} T1
+32. **_Gremlins 2_** (1990), score by Jerry Goldsmith {01:34:48} T2
+33. **_The Witches_** (1990), score by Stanley Myers {0:28:00} T1
+34. **_Beauty and the Beast_** (1991), score by Alan Mencken T2b
+35. **_Batman Returns_** (1992), score by Danny Elfman {00:12:15} T1
+36. **_Jurassic Park_** (1993), score by John Williams {01:18:30} T1
+37. **_The Nightmare Before Christmas_** (1993), score by Danny Elfman T1
+38. **_Groundhog Day_** (1993), score by George Fenton T2
+39. **_Demolition Man_** (1993), score by Eliot Goldenthal {00:00:27} T2
+40. **_The Lion King_** (1994), score by Hans Zimmer T1
+41. **_Crimson Tide_** (1995), score by Hans Zimmer {01:30:00}, T1
+42. **_The Rock_** (1996), score by Smith/Zimmer {0:20:26}, T1
+43. **_The Hunchback of Notre Dame_** (1996), score by Alan Mencken {0:03:38} T1
+44. **_Mars Attacks_** (1996), score by Danny Elfman {00:02:41} T2
+45. **_Faceoff_** (1997), score by John Powell {0:07:00}, T2b
+46. **_Scream 2_** (1997), score by Marco Beltrami {0:40:07} T2
+47. **_Mulan_** (1998), score by Jerry Goldsmith {0:55:54} T2
+48. **_Urban Legend_** (1998), score by Christopher Young {01:18:37} T3
+49. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} T2
+50. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} T2
+51. **_End of Days_** (1999), score by John Debney {00:00:01} T1
+52. **_The Road to El Dorado_** (2000), score by Hans Zimmer & John Powell {0:08:32} T1
+53. **_Gladiator_** (2000), score by Hans Zimmer & Lisa Gerrard {2:29:00} T1
+54. **_Shrek_** (2001), score by Harry Gregson-Williams/John Powell {00:41:30} T2
+55. **_Attack of the Clones_** (2002), score by John Williams {01:24:33} T1
+56. **_Harry Potter and the Chamber of Secrets_** (2002), score by John Williams {01:49:15} T1
+57. **_The Ring_** (2002), score by Hans Zimmer {00:21:45} T1
+58. **_Signs_** (2002), score by James Newton Howard {1:06:51} T3
+59. **_The Matrix Reloaded_** (2003), score by Don Davis {01:12:12} T2
+60. **_Lost S1E22_** (2004), score by Michael Giacchino {00:30:06} T2
+61. **_War of the Worlds_** (2005), score by John Williams {00:49:49} T2
+62. **_Death Note S1E19_** (2006), score by Yoshihisa Hirano {00:18:00} T2
+63. **_Pirates of the Caribbean 3: At World's End_** (2007), score by Hans Zimmer {02:34:00} T3
+64. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} T1
+65. **_Bones S3E13_** (2008), score by Peter Himmelman {0:24:38} T1
+66. **_Angels and Demons_** (2009), score by Hans Zimmer {01:57:31} T2
+67. **_Terminator Salvation_** (2009), score by Danny Elfman {0:59:42} T3
+68. **_LOST S6E1_** (2010), score by Michael Giacchino {0:22:50} T2
+69. **_Mission Impossible 4: Ghost Protocol_** (2011), score by Michael Giacchino {00:29:59} T1
+70. **_Pirates of the Caribbean 4: On Stranger Tides_** (2011), score by Hans Zimmer {01:55:00} T1
+71. **_Thor_** (2011), score by Patrick Doyle {00:57:31} T1
+72. **_Harry Potter and the Deathly Hallows, part 2_** (2011), score by Alexandre Desplat {0:55:00} T3
+73. **_Wreck It Ralph_** (2012), score by Henry Jackman {00:25:57} T1
+74. **_Iron Man 3_** (2013), score by Brian Tyler {00:24:41} T1
+75. **_The Newsroom S2E7_** (2013), score by Johnny Klimek {0:48:12} T3
+76. **_Game of Thrones S5E1_** (2014), score by Ramin Djiwadin {00:22:15} T1
+77. **_Crimson Peak_** (2015), score by Fernando Velazquez {00:00:00} T1
+78. **_Glitch S1E3_** (2015), score by Cornel Wilczeck {00:50:00} T2
+79. **_Terminator Genisys_** (2015), score by Lorne Balfe {1:27:03} T3b
+80. **_10 Cloverfield Lane_** (2016), score by Bear McCreary {00:00:00} T1
+81. **_Colossal_** (2016), score by Bear McCreary {01:38:11} T1
+82. **_Rogue One_** (2016), score by Michael Giacchino {01:12:48} T1
+83. **_Game of Thrones S6E5_** (2016), score by Ramin Djawadi {0:13:00} T1
+84. **_Star Trek Beyond_** (2016), score by Michael Giacchino {1:28:08} T3
+85. **_Pirates of the Caribbean 5: Dead Men Tell No Tales_** (2017), score by Geoff Zanelli {00:10:30} T1
+86. **_The Good Place S1E11_** (2017), score by David Schwartz {00:23:42} T1
+87. **_Justice League_** (2017), score by Danny Elfman {0:25:25} T3
+88. **_Survivor S35E9_** (2017), score by David Vanacore {0:20:50} T3
+89. **_The Spy Gone North_** (2018), score by Yeong-wook Jo {01:04:40} T1
+90. **_Avengers: Infinity War_** (2018), score by Alan Silvestri {00:33:52} T1
+91. **_Ready Player One_** (2018), score by Alan Silvestri {00:57:51} T2
+92. **_Star Wars Rebels S4E11_** (2018), score by Kevin Kiner {00:02:26} T2
+93. **_Star Wars Rebels S4E13_** (2018), score by Kevin Kiner {00:14:28} T2
+94. **_Eli_** (2019), score by Bear McCreary {001:19:52} T1
+95. **_1BR_** (2019), score by Ronen Landa {00:27:00} T3
+96. **_Doctor Sleep_** (2019), score by The Newton Brothers {02:18:33} T2
+97. **_Frozen 2_** (2019), score by Christophe Beck {00:16:40} T2
+98. **_Succession S2E10_** (2019), score by Nicholas Britell {01:09:00} T2
+99. **_Toy Story_** (2019), score by Randy Newman {01:15:20} T2
+100. **_Onward_** (2020), score by Jeff & Mychael Danna {01:06:00} T2
+101. **_Westworld S3E5_** (2020), score by Ramin Djawadi {00:47:14} T2
+102. **_Cursed S1E4_** (2020), score by Jeff Russo {00:06:47} T2
+103. **_Fantasy Island_** (2020), score by Bear McCreary {01:18:13} T3
+104. **_The Flight Attendant S1E8_** (2020), score by Blake Neely {0:39:12} T3
+105. **_The Mandalorian Chapter 16_** (2020), score by Ludwig Göransson {0:34:20} T3
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
