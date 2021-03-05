@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://www.musicologynow.org/2019/05/the-memories-of-music-in-game-of-thrones.html"
+url_source = "https://musicologynow.org/the-memories-of-music-in-game-of-thrones/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
