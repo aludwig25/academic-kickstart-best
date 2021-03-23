@@ -42,7 +42,7 @@ projects = ["theoryped"]
 tags = ["Sonata Theory", "Hepokoski", "Haydn", "Analysis"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1Atqv9VYYQssyVfvTDmkLPPkJr1gNgnDz/view?usp=sharing"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
