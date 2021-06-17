@@ -32,7 +32,8 @@ In August of 1969, a dairy farm in the state of New York hosted a pivotal moment
 
 Publishing in September 2021! </p>
 
-<a href="https://libraries.clemson.edu/press/books/woodstock-then-and-now/">
+<a href="https://libraries.clemson.edu/press/books/woodstock-then-and-now/"></p>
+
 Paperback ISBN: 978-1-63804-005-7
 
 <figure>
