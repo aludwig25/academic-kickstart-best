@@ -39,7 +39,7 @@ In August of 1969, a dairy farm in the state of New York hosted a pivotal moment
 “The Woodstock Festival was the story of a generation, and the best stories are told here by the people who made the festival!”
 —Bob Gruen
 
-Publishing in September 2021! </p>
+Publishing in December 2021! </p>
 
 <a href="https://libraries.clemson.edu/press/books/woodstock-then-and-now/"></p>
 
