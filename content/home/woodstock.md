@@ -28,7 +28,7 @@ design:
 
 Woodstock Then and Now: A 50th Anniversary Celebration
 
-<img src="image001[66].jpg" alt="Woodstock Pre-Sale">
+<img src="static/img/image001[66].jpg " alt="Woodstock Pre-Sale">
 
 In August of 1969, a dairy farm in the state of New York hosted a pivotal moment in the history of pop music. Taking place only two years after the “Summer of Love” and one year after the tumultuous events of 1968, the Woodstock Music and Art Fair put an exclamation point on the transformational decade of the 1960s. Joni Mitchell did not attend Woodstock, but her song of the same name captures an opposition inherent to the turbulent and divisive era. “We are stardust . . . caught in the devil’s bargain,” Mitchell sings, “and we’ve got to get ourselves back to the garden.” In order to celebrate the 50th anniversary of Woodstock, Berklee College of Music hosted a week-long celebration that included conversations with luminaries from the era. Participants included Woodstock co-founder, Michael Lang; emcee, stage and lighting designer, Chip Monck; audio engineer, Bill Hanley; photographers Henry Diltz and Elliott Landy; public relations officer, Rona Elliot; and Gerardo Velez, drummer for Jimi Hendrix. Woodstock Then and Now commemorates the discussion between these Woodstock luminaries, making available the transcripts of this historic event.
 
