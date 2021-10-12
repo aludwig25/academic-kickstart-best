@@ -41,9 +41,9 @@ In August of 1969, a dairy farm in the state of New York hosted a pivotal moment
 
 Publishing in December 2021! </p>
 
-<a href="https://libraries.clemson.edu/press/books/woodstock-then-and-now/"></p>
+<a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=5425"></p>
 
-Paperback ISBN: 978-1-63804-005-7
+Presale now until November 1st!
 
 <figure>
 <img src="/img/Woodstock-cover-chosen-1434x2048.jpg" alt="" title="Woodstock Book Cover.">
