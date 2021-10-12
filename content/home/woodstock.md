@@ -29,7 +29,7 @@ design:
 Woodstock Then and Now: A 50th Anniversary Celebration
 
 <figure>
-<img src="/image001[66].jpg" alt="Woodstock" title="Woodstock Pre-Sale.">
+<img src="WoodstockPresale.jpg" alt="Woodstock" title="Woodstock Pre-Sale.">
 <center><figcaption>Woodstock</figcaption></center>
 </figure>
 
