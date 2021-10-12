@@ -43,12 +43,13 @@ Publishing in December 2021! </p>
 
 <a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=5425"></p>
 
-Presale now until November 1st!
+Pre-sale now until November 1st!
 
 <figure>
-  <img src="/image001[66].jpg"</img src> alt="" title="Woodstock Book Cover.">
+<img src="/image001[66].jpg" alt="Woodstock" title="Woodstock Pre-Sale.">
 <center><figcaption>Woodstock</figcaption></center>
 </figure>
+
 
 
 
