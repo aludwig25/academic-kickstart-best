@@ -46,7 +46,7 @@ Publishing in December 2021! </p>
 Pre-sale now until November 1st!
 
 <figure>
- <img src="/img/Woodstock-cover-chosen-1434x2048.jpg" alt="" title="Woodstock Book Cover.">
+ <img src="/img/Woodstock-add-newer.png" alt="" title="Woodstock Book Cover.">
 
 
 
