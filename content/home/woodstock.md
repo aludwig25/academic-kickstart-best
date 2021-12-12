@@ -47,6 +47,8 @@ Pre-sale now until November 1st!
 
 <figure>
  <img src="/img/Woodstock-cover-chosen-1434x2048.jpg" alt="" title="Woodstock Book Cover.">
+  
+  <img src="/img/Screen Shot 2021-12-10 at 10.05.51 AM.png" alt="" title="Woodstock Book Cover"
 
 
 
