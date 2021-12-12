@@ -14,7 +14,7 @@ weight: 3
 title: Woodstock 
 
 # Section subtitle
-subtitle: _Woodstock Then and Now: A 50th Anniversary Celebration_
+subtitle: Woodstock Then and Now: A 50th Anniversary Celebration
 
 # Section design
 design:
