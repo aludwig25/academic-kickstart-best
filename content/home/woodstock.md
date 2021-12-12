@@ -11,10 +11,10 @@ headless: true
 weight: 3
 
 # Section title
-title: Woodstock Then and Now: A 50th Anniversary Celebration
+title: Woodstock Then and Now
 
 # Section subtitle
-subtitle:
+subtitle: A 50th Anniversary Celebration
 
 # Section design
 design:
