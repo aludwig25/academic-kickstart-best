@@ -49,7 +49,7 @@ subtitle = "Woodstock Then and Now: A 50th Anniversary Celebration"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "WD50-Cover-Quotes.jpg.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
