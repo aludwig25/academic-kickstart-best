@@ -22,7 +22,7 @@ publication = "Clemson University press"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Woodstock Then and Now is a first-hand transcription of a series of roundtable discussions and interviews with "Woodstock luminaries" held at the Berklee College of Music in April 2019."
+abstract = "Woodstock Then and Now is a first-hand transcription of a series of roundtable discussions and interviews with 'Woodstock luminaries' held at the Berklee College of Music in April 2019."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
