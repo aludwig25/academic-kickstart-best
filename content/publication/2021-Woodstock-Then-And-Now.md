@@ -65,6 +65,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "academic-kickstart-best/static/img/Woodstock-cover-chosen-1434x2048.jpg"
+image = "/img/Screen Shot 2021-12-10 at 10.05.51 AM.png"
 caption = ""
 +++
