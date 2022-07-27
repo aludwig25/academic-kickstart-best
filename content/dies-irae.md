@@ -117,81 +117,81 @@ width="100%"></iframe>
 
 
 **My List**: _Film_ (year), composer {Time Stamp} Type
-1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} T1
-2. **_Sunrise: A Song of Two Humans_** (1927), score by Hugo Riesenfeld {1:19:20} T1
-3. **_Day of Wrath_** (1943), score by Poul Schierbeck {0:00:00} T1
-4. **_Know Your Enemy: Japan_** (1945), score by Dmitri Tiomkin {0:24:57} T1
-5. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin T1-3
-6. **_Angel on My Shoulder_** (1946), score by Dmitri Tiomkin {0:13:00} T1
-7. **_Young Bess_** (1953), score by Miklós Rózsa {0:27:48} T1
-8. **_I Confess_** (1953), score by Dmitri Tiomkin {0:01:55} T1
-9. **_The Sheep Has Five Legs_** (1954), score by Georges Van Parys T2
-10. **_Garden of Evil_** (1954), score by Bernard Herrmann {0:28:00} T1
-11. **_On the Waterfront_** (1954), score by Leonard Bernstein {1:33:20} T2
-12. **_Between Heaven and Hell_** (1956), score by Hugo Friedhofer {0:00:30} T1
+1. **_Metropolis_** (1927), score by Gottfried Huppertz {00:32:34} Type 1
+2. **_Sunrise: A Song of Two Humans_** (1927), score by Hugo Riesenfeld {1:19:20} Type 1
+3. **_Day of Wrath_** (1943), score by Poul Schierbeck {0:00:00} Type 1
+4. **_Know Your Enemy: Japan_** (1945), score by Dmitri Tiomkin {0:24:57} Type 1
+5. **_It's a Wonderful Life_** (1946), score by Dmitri Tiomkin Type 1-3
+6. **_Angel on My Shoulder_** (1946), score by Dmitri Tiomkin {0:13:00} Type 1
+7. **_Young Bess_** (1953), score by Miklós Rózsa {0:27:48} Type 1
+8. **_I Confess_** (1953), score by Dmitri Tiomkin {0:01:55} Type 1
+9. **_The Sheep Has Five Legs_** (1954), score by Georges Van Parys Type 2
+10. **_Garden of Evil_** (1954), score by Bernard Herrmann {0:28:00} Type 1
+11. **_On the Waterfront_** (1954), score by Leonard Bernstein {1:33:20} Type 2
+12. **_Between Heaven and Hell_** (1956), score by Hugo Friedhofer {0:00:30} Type 1
 13. **_Sleeping Beauty_** (1957), score by Jack Lawrence & Sammy Fain {0:30:00}
-14. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} T2
-15. **_The Screaming Skull_** (1958), score by Ernst Gold {0:02:02} T1
-16. **_The Return of Dracula_** (1958), score by Gerald Fried {0:00:14} T1
-17. **_Compulsion_** (1959), score by Lionel Newman {1:03:20} T1
-18. **_Some Like It Hot_** (1959), score by Adolph Deutsch {1:58:01} T2
-19. **_Fall of the House of Usher_** (1960), score by Les Baxter {1:08:11} T1
-20. **_The Unforgiven_** (1960), score by Dmitri Tiomkin {1:16:42} T2
-21. **_Psycho_** (1960), score by Bernard Herrmann {0:11:50} T3
-22. **_El Cid_** (1961), score by Miklós Rózsa {1:34:23} T1
-23. **_The Great Escape_** (1963), score by Elmer Bernstein {02:11:15} T2
-24. **_Jason and the Argonauts_** (1963), score by Bernard Herrmann {1:37:00} T1
-25. **_The Jar_** (1964), score by Bernard Herrmann {0:09:59} T1
-26. **_Becket_** (1964), score by Laurence Rosenthal {0:03:40} T1
-27. **_I Malamando_** (1964), score by Ennio Morricone {1:15:50} T1
-28. **_Fists in the Pocket_** (1965), score by Ennio Morricone {0:00:01} T2
-29. **_Nightmare Castle_** (1965), score by Ennio Morricone {0:25:30} T1
-30. **_The Bible: In the Beginning_** (1966), score by Toshiro Mayuzumi {0:27:50} T1
-31. **_War and Peace_** (1966), score by Vyacheslav Ovchinnikov {1:44:39} T1
-32. **_Escalation_** (1968), score by Ennio Morricone {0:00:00} T1
-33. **_Dracula has Risen from the Grave_** (1968), score by James Bernard {0:13:25} T1B
-34. **_The Strange Vice of Mrs. Wardh_** (1971), score by Nora Orlandi {0:28:46} T1B
-35. **_Lust for a Vampire_** (1971), score by Harry Robinson {0:50:15} T1
-36. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00} T1
-37. **_Mephisto Waltz_** (1971), score by Jerry Goldsmith {00:00:31} T1
-38. **_The Devils_** (1971), score by Peter Maxwell Davies {0:06:21} T1
-39. **_Vampire Circus_** (1972), score by David Whitaker {0:49:12} T1
-40. **_The Vault of Horror_** (1973), score by Douglas Gamley {0:00:06} T1
-41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} T1B
-42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} T1
-43. **_The Omen_** (1976), score by Jerry Goldsmith T1
-44. **_Obsession_** (1976), score by Bernard Herrmann {0:52:06} T1
-45. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} T1
-46. **_A New Hope_** (1977), score by John Williams {00:40:15} T1
-47. **_Close Encounters of the Third Kind_** (1977), score by John Williams {00:44:12} T1
-48. **_Cruise Into Terror_** (1978), score by Gerald Fried {0:01:00} T1
-49. **_The Medusa Touch_** (1978), score by Michael J. Lewis {1:41:06} T2
-50. **_Superman_** (1978), score by John Williams {0:12:36} T3
-51. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} T2
-52. **_The Killer Nun_** (1979), score by Alessandro Alessandroni {0:00:01} T1
-53. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} T1
-54. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} T2
-55. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} T1
-56. **_Superstition_** (1982), score by David Gibney {0:04:05} T1
-57. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} T2
-58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass T3
-59. **_Legend_** (1985), score by Tangerine Dream {0:21:14} T2
-60. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} T2
-61. **_Back to the Future_** (1985), score by Alan Silvestri {1:07:25} T2
-62. **_Friday the 13th: Part VI, Jason Lives_** (1986), score by Henry Manfredini {00:04:15) T2
-63. **_Big Trouble in Little China_** (1986), score by John Carpenter/Alan Howarth {00:11:11} T1
+14. **_The Seventh Seal_** (1957), score by Erik Nodren {00:08:00} Type 2
+15. **_The Screaming Skull_** (1958), score by Ernst Gold {0:02:02} Type 1
+16. **_The Return of Dracula_** (1958), score by Gerald Fried {0:00:14} Type 1
+17. **_Compulsion_** (1959), score by Lionel Newman {1:03:20} Type 1
+18. **_Some Like It Hot_** (1959), score by Adolph Deutsch {1:58:01} Type 2
+19. **_Fall of the House of Usher_** (1960), score by Les Baxter {1:08:11} Type 1
+20. **_The Unforgiven_** (1960), score by Dmitri Tiomkin {1:16:42} Type 2
+21. **_Psycho_** (1960), score by Bernard Herrmann {0:11:50} Type 3
+22. **_El Cid_** (1961), score by Miklós Rózsa {1:34:23} Type 1
+23. **_The Great Escape_** (1963), score by Elmer Bernstein {02:11:15} Type 2
+24. **_Jason and the Argonauts_** (1963), score by Bernard Herrmann {1:37:00} Type 1
+25. **_The Jar_** (1964), score by Bernard Herrmann {0:09:59} Type 1
+26. **_Becket_** (1964), score by Laurence Rosenthal {0:03:40} Type 1
+27. **_I Malamando_** (1964), score by Ennio Morricone {1:15:50} Type 1
+28. **_Fists in the Pocket_** (1965), score by Ennio Morricone {0:00:01} Type 2
+29. **_Nightmare Castle_** (1965), score by Ennio Morricone {0:25:30} Type 1
+30. **_The Bible: In the Beginning_** (1966), score by Toshiro Mayuzumi {0:27:50} Type 1
+31. **_War and Peace_** (1966), score by Vyacheslav Ovchinnikov {1:44:39} Type 1
+32. **_Escalation_** (1968), score by Ennio Morricone {0:00:00} Type 1
+33. **_Dracula has Risen from the Grave_** (1968), score by James Bernard {0:13:25} Type 1B
+34. **_The Strange Vice of Mrs. Wardh_** (1971), score by Nora Orlandi {0:28:46} Type 1B
+35. **_Lust for a Vampire_** (1971), score by Harry Robinson {0:50:15} Type 1
+36. **_A Clockwork Orange_** (1971), score by Wendy Carlos {00:01:00} Type 1
+37. **_Mephisto Waltz_** (1971), score by Jerry Goldsmith {00:00:31} Type 1
+38. **_The Devils_** (1971), score by Peter Maxwell Davies {0:06:21} Type 1
+39. **_Vampire Circus_** (1972), score by David Whitaker {0:49:12} Type 1
+40. **_The Vault of Horror_** (1973), score by Douglas Gamley {0:00:06} Type 1
+41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} Type 1B
+42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} Type 1
+43. **_The Omen_** (1976), score by Jerry Goldsmith Type 1
+44. **_Obsession_** (1976), score by Bernard Herrmann {0:52:06} Type 1
+45. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} Type 1
+46. **_A New Hope_** (1977), score by John Williams {00:40:15} Type 1
+47. **_Close Encounters of the Third Kind_** (1977), score by John Williams {00:44:12} Type 1
+48. **_Cruise Into Terror_** (1978), score by Gerald Fried {0:01:00} Type 1
+49. **_The Medusa Touch_** (1978), score by Michael J. Lewis {1:41:06} Type 2
+50. **_Superman_** (1978), score by John Williams {0:12:36} Type 3
+51. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} Type 2
+52. **_The Killer Nun_** (1979), score by Alessandro Alessandroni {0:00:01} Type 1
+53. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} Type 1
+54. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} Type 2
+55. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} Type 1
+56. **_Superstition_** (1982), score by David Gibney {0:04:05} Type 1
+57. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} Type 2
+58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass Type 3
+59. **_Legend_** (1985), score by Tangerine Dream {0:21:14} Type 2
+60. **_Friday the 13th: A New Beginning_** (1985), score by Henry Manfredini {00:01:59} Type 2
+61. **_Back to the Future_** (1985), score by Alan Silvestri {1:07:25} Type 2
+62. **_Friday the 13th: Part VI, Jason Lives_** (1986), score by Henry Manfredini {00:04:15) Type 2
+63. **_Big Trouble in Little China_** (1986), score by John Carpenter/Alan Howarth {00:11:11} Type 1
 64. **_The Mission_** (1986), score by Ennio Morricone {00:32:56} Type 1
 65. **_Ferris Bueller's Day Off_** (1986), score by Ira Newborn {00:00:08} Type 2
-66. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} T1-2
-67. **_Predator_** (1987), score by Alan Silvestri {1:15:00} T2b
+66. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} Type 1-2
+67. **_Predator_** (1987), score by Alan Silvestri {1:15:00} Type 2b
 68. **_Empire of the Sun_** (1987), score by John Williams {0:30:00} Type 3
 69. **_The Accidental Tourist_** (1988), score by John Williams {1:54:33} Type 2
 70. **_Murder She Wrote S5E13_** (1989), score by David Bell {0:13:00}, Type 1
 71. **_Quantam Leap S2E11_** (1989), score by Mike Post {0:42:01], Type 2
-72. **_Dead Poets Society_** (1989), score by Maurice Jarre {0:35:00} T3
-73. **_Home Alone_** (1990), score by John Williams {00:06:58} T1
-74. **_Gremlins 2_** (1990), score by Jerry Goldsmith {01:34:48} T2
-75. **_The Witches_** (1990), score by Stanley Myers {0:28:00} T1
+72. **_Dead Poets Society_** (1989), score by Maurice Jarre {0:35:00} Type 3
+73. **_Home Alone_** (1990), score by John Williams {00:06:58} Type 1
+74. **_Gremlins 2_** (1990), score by Jerry Goldsmith {01:34:48} Type 2
+75. **_The Witches_** (1990), score by Stanley Myers {0:28:00} Type 1
 76. **_Maniac Cop 2_** (1990), score by Jay Chattaway {1:17:51} Type 2
 77. **_Presumed Innocent_** (1990), score by John Williams {0:45:19} Type 2
 78. **_Beauty and the Beast_** (1991), score by Alan Mencken Type 2b
