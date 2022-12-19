@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Liberal Arts
+role: Associate Professor; Interim Assistant Chair of the Liberal Arts
 
 # Organizations/Affiliations
 organizations:
