@@ -105,6 +105,8 @@ For more, see all of my supercuts: <iframe width="560" height="315" src="https:/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 See also a few other media appearances: 
 
 1. the film on which I consulted and appeared as a talking head, _Why This Creepy Melody Is In So Many Movies_.
@@ -118,6 +120,8 @@ width="100%"></iframe>
 <iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2020/10/30/dies-irae-horror-movie-music"></iframe>
 
 4. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+5. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/23896044/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/474046/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 **My List**: _Film_ (year), composer {Time Stamp} Type
