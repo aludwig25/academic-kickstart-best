@@ -168,6 +168,7 @@ width="100%"></iframe>
 40. **_The Vault of Horror_** (1973), score by Douglas Gamley {0:00:06} Type 1
 41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} Type 1B
 42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} Type 1
+**_The Devil is a Woman_** (1974), score by Ennio Morricone {0:00:54} Type 1
 43. **_The Omen_** (1976), score by Jerry Goldsmith Type 1
 44. **_Obsession_** (1976), score by Bernard Herrmann {0:52:06} Type 1
 45. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} Type 1
@@ -178,10 +179,12 @@ width="100%"></iframe>
 50. **_The Medusa Touch_** (1978), score by Michael J. Lewis {1:41:06} Type 2
 51. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} Type 2
 52. **_The Killer Nun_** (1979), score by Alessandro Alessandroni {0:00:01} Type 1
+**_Moonraker_** (1979), score by John Barry {0:32:30} Type 3
 53. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} Type 1
 54. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} Type 2
 55. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} Type 1
 56. **_Superstition_** (1982), score by David Gibney {0:04:05} Type 1
+**_Top Secret!_** (1984), score by Maurice Jarre {0:32:17} Type 1
 57. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} Type 2
 58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass Type 3
 59. **_Legend_** (1985), score by Tangerine Dream {0:21:14} Type 2
@@ -195,6 +198,7 @@ width="100%"></iframe>
 67. **_Friday the 13th: Part VII, The New Blood_** (1988), score by Henry Manfredini {00:15:03} Type 1-2
 68. **_Predator_** (1987), score by Alan Silvestri {1:15:00} Type 2b
 69. **_The Accidental Tourist_** (1988), score by John Williams {1:54:33} Type 2
+**_Willow_** (1988), score by James Horner {1:24:20} Type 2
 70. **_Murder She Wrote S5E13_** (1989), score by David Bell {0:13:00}, Type 1
 71. **_Quantam Leap S2E11_** (1989), score by Mike Post {0:42:01], Type 2
 72. **_Batman_** (1989), score by Danny Elfman {1:13:33} T3
@@ -214,9 +218,11 @@ width="100%"></iframe>
 86. **_Batman: Mask of the Phantasm_** (1993), score by Shirley Walker {0:02:00} Type 2
 87. **_Needful Things_** (1993), score by Patrick Doyle {1:40:20} Type 1
 88. **_The Lion King_** (1994), score by Hans Zimmer Type 1
+**_Highlander III: The Sorcerer_** (1994), score by J. Peter Robinson {0:32:10} Type 2
 89. **_Tales from the Dark Side_** (1994), score by Bill Frisell {0:00:01} Type 3b
 90. **_Crimson Tide_** (1995), score by Hans Zimmer {01:30:00}, Type 1
 91. **_Nixon_** (1995), score by John Williams {0:05:39} Type 2
+**_The Quick and the Dead_** (1995), score by Alan Silvestri {1:03:14} Type 2
 92. **_Independence Day_** (1996), score by David Arnold {1:06:42} Type 2
 93. **_The Rock_** (1996), score by Smith/Zimmer {0:20:26}, Type 1
 94. **_The Hunchback of Notre Dame_** (1996), score by Alan Mencken {0:03:38} Type 1
@@ -238,9 +244,12 @@ width="100%"></iframe>
 110. **_The Bone Collector_** (1999), score by Craig Armstrong {01:48:59} Type 2
 111. **_The Sixth Sense_** (1999), score by James Newton Howard {0:15:40} Type 2
 112. **_End of Days_** (1999), score by John Debney {00:00:01} Type 1
+**_The Messenger: The Joan of Arc Story_** (1999), score by Èric Serra {2:31:00} Type 3
+**_The World Is Not Enough_** (1999), score by David Arnold {1:53:51} Type 2
 113. **_The Road to El Dorado_** (2000), score by Hans Zimmer & John Powell {0:08:32} Type 1
 114. **_Gladiator_** (2000), score by Hans Zimmer & Lisa Gerrard {2:29:00} Type 1
 115. **_Shrek_** (2001), score by Harry Gregson-Williams/John Powell {00:41:30} Type 2
+**_South Park S5E6_** (2001), score by Scott Nickoley {0:19:38} Type 3
 116. **_Harry Potter & The Sorcerer's Stone_** (2001), score by John Williams {2:08:27} Type 3
 117. **_Artifical Intelligence_** (2001), score by John Williams {1:55:50} Type 3
 118. **_Attack of the Clones_** (2002), score by John Williams {01:24:33} Type 1
@@ -251,6 +260,7 @@ width="100%"></iframe>
 123. **_Gangs of New York_** (2002), score by Elmer Bernstein (rejected) Type 1
 124. **_Who Wants to Be a Millionaire_** (2002), score by Keith & Michael Strachan {0:13:13} Type 3
 125. **_The Texas Chainsaw Massacre_** (2003), score by Steve Jablonsky {1:10:53} Type 3
+**_Looney Tunes: Back in Action_** (2003), score by Jerry Goldsmith {1:05:56} Type 1
 126. **_The Matrix Reloaded_** (2003), score by Don Davis {01:12:12} Type 2
 127. **_The Matrix Revolutions_** (2003), score by Don Davis {1:57:20} Type 2
 128. **_Kill Bill Vol. 2_** (2004), sample of "The Strange Vice of Mrs. Wardh" {0:23:20} Type 1B
@@ -263,6 +273,7 @@ width="100%"></iframe>
 135. **_Death Note S1E19_** (2006), score by Yoshihisa Hirano {00:18:00} Type 2
 136. **_Pirates of the Caribbean 3: At World's End_** (2007), score by Hans Zimmer {02:34:00} Type 3
 137. **_Perfume: The Story of a Murderer_** (2006), score by Reinhold Heil {0:14:23} Type 3
+**_The Illusionist_** (2006), score by Philip Glass {0:24:17} Type 3
 138. **_The Bucket List_** (2007), score by Marc Shaiman {0:06:23} Type 2B
 139. **_Indiana Jones and the Kingdom of the Crystal Skull_** (2008), score by John Williams {00:04:18} Type 1
 140. **_Sweeney Todd: Demon Barber of Fleet Street_** (2007), score by Stephen Sondheim {1:13:39} Type 3-2
@@ -354,6 +365,11 @@ width="100%"></iframe>
 226. **_Obi-Wan Kenobi_** (2022), score by Natalie Holt {0:15:15} Type 2
 227. **_Stranger Things S4E5_** (2022), score by Dixon/Stein {0:07:45} Type 1
 228. **_The Northman_** (2022), score by Carolan/Gainsborough {0:02:43} Type 3
+**_Disenchanted_** (2022), score by Alan Menken {1:23:57} Type 2
+**_Halloween Ends_** (2022), score by John & Cody Carpenter, Daniel Davis {1:37:00} Type 2
+**_Only Murders in the Building S2E6_** (2022), score by Siddhartha Khosla {0:21:14} Type 3
+**_Andor S1E10_** (2022), score by Nicholas Britell {0:31:00} Type 2
+**_Wednesday S1E1_** (2022), score by Danny Elfman {0:08:00} Type 2
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
