@@ -365,6 +365,12 @@ width="100%"></iframe>
 226. **_Obi-Wan Kenobi_** (2022), score by Natalie Holt {0:15:15} Type 2
 227. **_Stranger Things S4E5_** (2022), score by Dixon/Stein {0:07:45} Type 1
 228. **_The Northman_** (2022), score by Carolan/Gainsborough {0:02:43} Type 3
+**_Disenchanted_** (2022), score by Alan Menken {1:23:57} Type 2
+**_Halloween Ends_** (2022), score by John & Cody Carpenter, Daniel Davies {1:37:00} Type 2
+**_Andor S1E10_** (2022), score by Nicholas Britell {0:31:00} Type 2
+**_Only Murders in the Building S2E6_** (2022), score by Siddhartha Khosla {0:21:14] Type 3
+**_Wednesday S1E1_** (2022), score by Danny Elfman {0:08:00} Type 2
+
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
