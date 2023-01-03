@@ -179,11 +179,11 @@ width="100%"></iframe>
 50. **_The Medusa Touch_** (1978), score by Michael J. Lewis {1:41:06} Type 2
 51. **_Alien_** (1979), score by Jerry Goldsmith {01:53:30} Type 2
 52. **_The Killer Nun_** (1979), score by Alessandro Alessandroni {0:00:01} Type 1
-**_Moonraker_** (1979), score by John Barry {0:32:30} Type 3
-53. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} Type 1
-54. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} Type 2
-55. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} Type 1
-56. **_Superstition_** (1982), score by David Gibney {0:04:05} Type 1
+53. **_Moonraker_** (1979), score by John Barry {0:32:30} Type 3
+55. **_The Shining_** (1980), score by Wendy Carlos {00:00:00} Type 1
+56. **_Heavy Metal_** (1981), score by Elmer Bernstein {1:10:48} Type 2
+57. **_Conan the Barbarian_** (1982), score by Basil Poledouris {01:51:13} Type 1
+58. **_Superstition_** (1982), score by David Gibney {0:04:05} Type 1
 **_Top Secret!_** (1984), score by Maurice Jarre {0:32:17} Type 1
 57. **_Poltergeist_** (1982), score by Jerry Goldsmith {01:44:01} Type 2
 58. **_Mishima: A Life in Four Chapters_** (1985), score by Philip Glass Type 3
