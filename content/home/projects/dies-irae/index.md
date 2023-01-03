@@ -168,7 +168,7 @@ width="100%"></iframe>
 40. **_The Vault of Horror_** (1973), score by Douglas Gamley {0:00:06} Type 1
 41. **_Le Trio Infernal_** (1974), score by Ennio Morricone {1:06:20} Type 1B
 42. **_From Beyond the Grave_** (1974), score by Douglas Gamley {00:00:38} Type 1
-**_The Devil is a Woman_** (1974), score by Ennio Morricone {0:00:54} Type 1
+43. **_The Devil is a Woman_** (1974), score by Ennio Morricone {0:00:54} Type 1
 43. **_The Omen_** (1976), score by Jerry Goldsmith Type 1
 44. **_Obsession_** (1976), score by Bernard Herrmann {0:52:06} Type 1
 45. **_The Car_** (1977), score by Leonard Rosenman {00:00:17} Type 1
