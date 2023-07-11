@@ -128,7 +128,7 @@ Here are the various podcast episodes on which I have appeared to talk about the
 
 ### _Twenty Thousand Hertz_
 
-<iframe width="560" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
+<iframe frameBorder="0" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=TTH8184389203&light=true"
 width="100%"></iframe>
 
 ### _Here and Now_
