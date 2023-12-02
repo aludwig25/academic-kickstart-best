@@ -116,6 +116,8 @@ Here are my YouTube supercuts, including nearly 300 examples of the Dies Irae in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZSedtdntKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6yAIgMdpa_E?si=3WDDTf4EjKEOeRSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Collection of Podcast Appearances
 
 Here are the various podcast episodes on which I have appeared to talk about the Dies Irae: 
