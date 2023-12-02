@@ -166,21 +166,25 @@ width="100%"></iframe>
 | _Tale of Two Cities_ | 1935 | Herbert Strothart| 1:57:27| 1 | 
 | _Foreign Correspondent_ | 1940 | Alfred Newman | 1:07:00 | 1 |
 | _Day of Wrath_ | 1943 | Poul Schierbeck | 0:00:01 | 1 |
+| _The Battle of China_ | 1944 | Dimitri Tiomkin | 0:24:05 | 1 |
 | _Know Your Enemy: Japan_ | 1945 | Dmitri Tiomkin | 0:24:57 | 1 |
 | _It's a Wonderful Life_ | 1946 | Dmitri Tiomkin | 0:25:15 | 1-3 |
 | _Angel on My Shoulder_ | 1946 | Dmitri Tiomkin | 0:13:00 | 1 |
+| _Red Light_ | 1949 | Dimitri Tiomkin | 0:00:00 | 1 |
 | _Young Bess_ | 1953 | Miklós Rózsa | 0:27:48 | 1 |
 | _I Confess_ | 1953 | Dmitri Tiomkin | 0:01:55 | 1 |
 | _The Sheep Has Five Legs_ | 1954 | Georges Van Parys | 0:15:25 | 2 |
 | _Garden of Evil_ | 1954 | Bernard Herrmann | 0:28:00 | 1 |
 | _On the Waterfront_ | 1954 | Leonard Bernstein | 1:33:20 | 2 |
 | _Between Heaven and Hell_ | 1956 | Hugo Friedhofer | 0:00:30 | 1 |
+| _Search for Paradise_ | 1957 | Dimitri Tiomkin | 0:11:13 | 1 |
 | _Sleeping Beauty_ | 1957 | Jack Lawrence & Sammy Fain | 0:30:00 | 3 |
 | _The Seventh Seal_ | 1957 | Erik Nodren | 00:08:00 | 2 |
 | _The Screaming Skull_ | 1958 | Ernst Gold | 0:02:02 | 1 |
 | _The Return of Dracula_ | 1958 | Gerald Fried | 0:00:14 | 1 |
 | _Compulsion_ | 1959 | Lionel Newman | 1:03:20 | 1 |
 | _Some Like It Hot_ | 1959 | Adolph Deutsch | 1:58:01 | 2 |
+| _The City of the Dead_ | 1960 | Douglas Gamley | 1:17:17 | 1 | 
 | _Fall of the House of Usher_ | 1960 | Les Baxter | 1:08:11 | 1 |
 | _The Unforgiven_ | 1960 | Dmitri Tiomkin | 1:16:42 | 2 |
 | _Psycho_ | 1960 | Bernard Herrmann | 0:11:50 | 3 |
@@ -190,6 +194,7 @@ width="100%"></iframe>
 | _The Jar_ | 1964 | Bernard Herrmann | 0:09:59 | 1 |
 | _Becket_ | 1964 | Laurence Rosenthal | 0:03:40 | 1 |
 | _I Malamando_ | 1964 | Ennio Morricone | 1:15:50 | 1 |
+| _The Collector_ | 1965 | Maurice Jarre | 0:18:07 | 1 |
 | _Fists in the Pocket_ | 1965 | Ennio Morricone | 0:00:01 | 2 |
 | _Nightmare Castle_ | 1965 | Ennio Morricone | 0:25:30 | 1 |
 | _The Bible: In the Beginning_ | 1966 | Toshiro Mayuzumi | 0:27:50 | 1 |
@@ -208,15 +213,18 @@ width="100%"></iframe>
 | _The Devil is a Woman_ | 1974 | Ennio Morricone | 0:00:54 | 1 |
 | _The Omen_ | 1976 | Jerry Goldsmith | 0:00:08 | 1 |
 | _Obsession_ | 1976 | Bernard Herrmann | 0:52:06 | 1 |
+| _Jabberwocky_ | 1977 | Diegetic | 1:20:49 | 1 |
 | _The Car_ | 1977 | Leonard Rosenman | 00:00:17 | 1 |
 | _A New Hope_ | 1977 | John Williams | 00:40:15 | 1 |
 | _Close Encounters of the Third Kind_ | 1977 | John Williams | 00:44:12 | 1 |
 | _Superman_ | 1978 | John Williams | 0:12:36 | 3 |
 | _Cruise Into Terror_ | 1978 | Gerald Fried | 0:01:00 | 1 |
 | _The Medusa Touch_ | 1978 | Michael J. Lewis | 1:41:06 | 2 |
+| _Salem's Lot_ | 1979 | Henry Sukman | 0:01:59 | 1 |
 | _Alien_ | 1979 | Jerry Goldsmith | 01:53:30 | 2 | 
 | _The Killer Nun_ | 1979 | Alessandro Alessandroni | 0:00:01 | 1 | 
 | _Moonraker_ | 1979 | John Barry | 0:32:30 | 3 | 
+| _Christmas Evil_ | 1980 | Christensen, Harris & Heyward | 0:42:00 | 3 |
 | _The Shining_ | 1980 | Wendy Carlos | 00:00:00 | 1 | 
 | _Heavy Metal_ | 1981 | Elmer Bernstein | 1:10:48 | 2 | 
 | _Conan the Barbarian_ | 1982 | Basil Poledouris | 01:51:13 | 1 |
@@ -234,6 +242,7 @@ width="100%"></iframe>
 | _Empire of the Sun_ | 1987 | John Williams | 0:30:00 | 3 |
 | _Friday the 13th: Part VII, The New Blood_ | 1988 | Henry Manfredini | 00:15:03 | 1-2 | 
 | _Predator_ | 1987 | Alan Silvestri | 1:15:00 | 2b |
+| _Inspector Morse S2E2 | 1988 | Barrington Pheloung | 1:27:08 | 1 |
 | _The Accidental Tourist_ | 1988 | John Williams | 1:54:33 | 2 | 
 | _Willow_ | 1988 | James Horner | 1:24:20 | 2 |
 | _Murder She Wrote S5E13_ | 1989 | David Bell | 0:13:00 | 1 |
@@ -247,6 +256,7 @@ width="100%"></iframe>
 | _Presumed Innocent_ | 1990 | John Williams | 0:45:19 | 2 | 
 | _Beauty and the Beast_ | 1991 | Alan Mencken | 0:10:25 | 2b |
 | _Sleeping with the Enemy_ | 1991 | Jerry Goldsmith | 1:25:20 | 1 |
+| _Bram Stoker's Dracula_ | 1992 | Wojciech Kilar | 0:40:00 | 1B |
 | _Batman Returns_ | 1992 | Danny Elfman | 00:12:15 | 1 |
 | _Jurassic Park_ | 1993 | John Williams | 01:18:30 | 1 | 
 | _The Nightmare Before Christmas_ | 1993 | Danny Elfman | 0:15:35 | 1 |
@@ -259,6 +269,7 @@ width="100%"></iframe>
 | _Crimson Tide_ | 1995 | Hans Zimmer | 01:30:00 | 1 |
 | _Nixon_ | 1995 | John Williams | 0:05:39 | 2 |
 | _The Quick and the Dead_ | 1995 | Alan Silvestri | 1:03:14 | 2 | 
+| _Barb Wire_ | 1996 | Michael Colombier | 1:04:46 | 1 |
 | _Independence Day_ | 1996 | David Arnold | 1:06:42 | 2 |
 | _The Rock_ | 1996 | Smith/Zimmer | 0:20:26 | 1 |
 | _The Hunchback of Notre Dame_ | 1996 | Alan Mencken | 0:03:38 | 1 |
@@ -394,6 +405,9 @@ width="100%"></iframe>
 | _Benedetta_ | 2021 | Anne Dudley | 1:29:00 | 1 |
 | _Nightmare Alley_ | 2021 | Nathan Johnson | 1:40:40 | 3 |
 | _Ghosts S1E4_ | 2021 | Jeff Cardoni | 0:07:20 | 2 |
+| _Morbius_ | 2022 | Jon Ekstrand | 0:53:30 | 3B |
+| _Schmigadoon S2E4_ | 2022 | Christopher Willis | 0:19:54 | 2 |
+| _House of the Dragon S1E8_ | 2022 | Ramin Djawadi | 0:50:00 | 2 |
 | _Cheer S2E5_ | 2022 | Joseph Minadeo | 0:10:18 | 1 |
 | _Flight Attendant S2E2_ | 2022 | Blake Neely | 0:31:18 | 3 |
 | _Inventing Anna S1E3_ | 2022 | Bowers/Charles | 0:19:14 | 3 |
@@ -406,6 +420,8 @@ width="100%"></iframe>
 | _Andor S1E10_ | 2022 | Nicholas Britell | 0:31:00 | 2 |
 | _Only Murders in the Building S2E6_ | 2022 | Siddhartha Khosla | 0:21:14 | 3 |
 | _Wednesday S1E1_ | 2022 | Danny Elfman | 0:08:00 | 2 |
+| _Ahsoka S1E8_ | 2023 | Kevin Kiner | 0:36:57 | 2 |
+| _Loki S2E4_ | 2023 | Natalie Holt | 0:40:50 | 3 |
 
 [^1]: See Linda Schubert, “Plainchant in Motion Pictures: The ‘Dies Irae’ in Film Scores, ” Florilegium 15 (1998): 207-229; 
 and <a href="https://soundstudiesblog.com/2017/12/18/beyond-the-grave-the-dies-irae-in-video-game-music/">Karen Cook, "Beyond the Grave: The "Dies Irae" in Video Game Music"</a>.
