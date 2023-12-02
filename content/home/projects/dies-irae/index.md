@@ -162,7 +162,9 @@ width="100%"></iframe>
 | Film | Year | Composer | Time Stamp | Type |
 | ---- | ---- | -------- | ---------- | ---- |
 | _Metropolis_ | 1927 | Gottfried Huppertz | 0:32:34 | 1 |
-| _Sunrise: A Song of Two Humans_ | 1972 | Hugo Riesenfeld | 1:19:20 | 3 |
+| _Sunrise: A Song of Two Humans_ | 1927 | Hugo Riesenfeld | 1:19:20 | 3 |
+| _Tale of Two Cities_ | 1935 | Herbert Strothart| 1:57:27| 1 | 
+| _Foreign Correspondent_ | 1940 | Alfred Newman | 1:07:00 | 1 |
 | _Day of Wrath_ | 1943 | Poul Schierbeck | 0:00:01 | 1 |
 | _Know Your Enemy: Japan_ | 1945 | Dmitri Tiomkin | 0:24:57 | 1 |
 | _It's a Wonderful Life_ | 1946 | Dmitri Tiomkin | 0:25:15 | 1-3 |
