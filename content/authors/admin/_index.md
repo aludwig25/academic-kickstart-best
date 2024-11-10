@@ -63,4 +63,4 @@ user_groups:
 
 Alex Ludwig is an Associate Professor of Liberal Arts at Berklee College of Music. He teaches music history courses ranging from The Beatles to Viennese Modernism and Film Music. Research interests include Sonata Theory and the role of editing in film musicals, but mostly his focus has been trained on cataloguing film scores that use the chant melody "Dies Irae." Check out the list and let him know if you've found a new one. 
 
-When he's not teaching, Alex play and coaches soccer, and loves watching hockey, running after his son, Lucas, and our dog, Sofi.
+When he's not teaching, Alex plays and coaches soccer, and loves watching hockey, running after his son, Lucas, and our dog, Sofi.
